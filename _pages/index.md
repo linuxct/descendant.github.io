@@ -11,7 +11,7 @@ permalink: /
 
 ### · [Download](https://descendant.github.io/downloads) the power of Descendant to your device.
 
-### · Read about our [blog](https://descendant.github.io/blog/).
+### · Read our [blog](https://descendant.github.io/blog/) to be updated.
 
 ### · [Report](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md) a bug.
 

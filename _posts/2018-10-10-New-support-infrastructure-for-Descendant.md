@@ -12,12 +12,12 @@ I've put up this support infrastructure to Descendant.
 
 Mainly I've added two powerful tools:
 
-1. Bug Report tool
+- Bug Report tool
 
 This is nothing more than a [repository](https://github.com/Descendant/bug_tracker) to keep track of the bugs and display them in the [project page](https://github.com/orgs/Descendant/projects/1) of Descendant.
 You're advised to use the [Bug Report template](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md).
 
-2. This Github page
+- This Github page
 
 Well, enough said, you can found the downloads, this blogs, changelogs and even more. 
 
