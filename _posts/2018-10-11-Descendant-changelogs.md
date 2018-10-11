@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Descendant Changelogs from version OneDotZero to OneDotTwo"
-date:   2018-10-10 03:45:21 +0100
+date:   2018-10-11 04:32:21 +0100
 categories: Descendant
 ---
 
