@@ -1,7 +1,9 @@
 ---
 layout: default
+title: Downloads
+permalink: /downloads/
 avatar: true
-permalink: /downloads
+navigation: true
 ---
 ## Downloads
 
