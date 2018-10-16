@@ -7,6 +7,18 @@ navigation: true
 ---
 ## Downloads
 
+### __Descendant OneDotThree__
+
+#### GSI ARM64 A only
+
+* [Download here](https://drive.google.com/open?id=1vM8lYkLzexnvzMGHrK-B9EjGQBZVUytz)
+
+#### GSI ARM64 AB
+
+* [Download here](https://drive.google.com/open?id=1xaQQzh_H8ulzNiRjz_65Kp4dCITUkrPl)
+
+---
+
 ### __Descendant OneDotTwo__
 
 #### GSI ARM64 A only
