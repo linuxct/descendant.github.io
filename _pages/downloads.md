@@ -11,11 +11,15 @@ navigation: true
 
 #### GSI ARM64 A only
 
-* [Download here](https://drive.google.com/open?id=1vM8lYkLzexnvzMGHrK-B9EjGQBZVUytz)
+* [Download here](https://drive.google.com/open?id=1QoWG349BZd1ZAY7DdRCKQdfxEpoQaeXF)
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1xaQQzh_H8ulzNiRjz_65Kp4dCITUkrPl)
+* [Download here](https://drive.google.com/open?id=13Ei2A2nYUEqjvfr9wcqESZg5FSFuJZAd)
+
+#### GSI ARM A only
+
+* [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
 
 ---
 
