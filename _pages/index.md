@@ -3,6 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
+<p align="center">
 # Hello World, I'm the Descendant.
 
 ### · Get to know what's [Descendant about](https://descendant.github.io/about/).
@@ -17,6 +18,7 @@ permalink: /
 
 ### · [Donate](https://descendant.github.io/donations) to this project.
 
+</p>
 ---
 
 
