@@ -7,6 +7,22 @@ navigation: true
 ---
 ## Downloads
 
+### __Descendant OneDotFive__
+
+#### GSI ARM64 A only
+
+* [Download here](https://bit.ly/onedotfiveaonly)
+
+#### GSI ARM64 AB
+
+* [Download here](https://bit.ly/onedotfiveab)
+
+#### GSI ARM A only
+
+* [Download here](https://bit.ly/onedotfivearm)
+
+---
+
 ### __Descendant OneDotFour__
 
 #### GSI ARM64 A only
