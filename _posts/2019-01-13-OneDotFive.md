@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Descendant Changelogs from version OneDotFour to OneDotFive"
+title:  "Get ready for OneDotFive"
 date:   2019-1-13 04:32:21 +0100
 categories: Descendant
 ---
