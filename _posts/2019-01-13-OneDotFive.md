@@ -51,7 +51,6 @@ Misc Enhancements
 - Settings -> Apps & Notifications -> Advanced
 - Removed AppOps reported to be bugged on some devices.
 - November Security Patches
-
 - Hardware support updates
 - Synced to latest phh sources plus the following additions:
 - Fixed USSD for MTK devices
