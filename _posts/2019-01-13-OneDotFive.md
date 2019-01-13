@@ -55,7 +55,7 @@ Misc Enhancements
 - Synced to latest phh sources plus the following additions:
 - Fixed USSD for MTK devices
 
-Be sure to get yourself a fresh version of Descendant [here] (https://descendant.github.io/downloads/)
+Be sure to get yourself a fresh version of Descendant [here](https://descendant.github.io/downloads/).
 
 
 ---
