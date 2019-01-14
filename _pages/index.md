@@ -15,7 +15,7 @@ permalink: /
 
 ### · [Report](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md) a bug.
 
-### · Meet the [team](https://descendant.github.io/team/) behind Descendant.
+### · Meet the [team](https://descendant.github.io/404) behind Descendant.
 
 ### · [Donate](https://descendant.github.io/donations) to this project.
 
