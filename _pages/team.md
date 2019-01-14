@@ -13,4 +13,5 @@ Descendant team is a small group of 5 members including:
 
 <img src="https://i.imgur.com/8Isuxsb.jpg" width="50" height="50">
 
+![image](https://i.imgur.com/8Isuxsb.jpg)
 
