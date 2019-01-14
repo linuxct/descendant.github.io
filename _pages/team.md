@@ -5,3 +5,11 @@ permalink: /team/
 avatar: true
 navigation: true
 ---
+
+## The team
+
+
+Descendant team is a small group of 11 members
+
+
+in progress
