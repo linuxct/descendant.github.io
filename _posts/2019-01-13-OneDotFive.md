@@ -5,10 +5,7 @@ date:   2019-1-13 04:32:21 +0100
 categories: Descendant
 ---
 
-##### Changelogs 
-
-
-### __Descendant OneDotFive__
+### __Descendant OneDotFive Changelog__
 
 UI design changes
 
