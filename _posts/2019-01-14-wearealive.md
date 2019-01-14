@@ -7,7 +7,7 @@ categories: Descendant
 
 ## We're more than alive. 
 
-Since you may have noticed that no release happened from Descendant OneDotFive [link inside words] and that a lot of you wondered if we went dead or what, here I'm writing this couple of lines. 
+Since you may have noticed that no release happened from Descendant OneDotFive and that a lot of you wondered if we went dead or what, here I'm writing this couple of lines. 
 
 We're more than alive, but we needed to regroup ideas, priorities and whatsoever. 
 
