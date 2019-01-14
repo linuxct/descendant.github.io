@@ -22,6 +22,7 @@ Oh.. meanwhile you wait for the release.. here's what the battery settings looks
 <img src="https://i.imgur.com/Us2A1wl.jpg" width="250" height="450" >
 
 ![Screenshot](https://i.imgur.com/Us2A1wl.jpg)
+{:width="250"}
 
 
 ...told you that is going to be huge.
