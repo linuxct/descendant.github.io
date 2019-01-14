@@ -4,8 +4,7 @@ title:  "We're more than alive."
 date:   2019-01-14 04:32:21 +0100
 categories: Descendant
 ---
-## We're more than alive. 
-
+ 
 Since you may have noticed that no release happened from Descendant OneDotFive and that a lot of you wondered if we went dead or what, here I'm writing this couple of lines. 
 
 We're more than alive, but we needed to regroup ideas, priorities and whatsoever. 
@@ -20,7 +19,7 @@ That said, brace brace brace, this is going to be a Descendant year.
 Oh.. meanwhile you wait for the release.. here's what the battery settings looks alike now. 
 
 
- ![Screenshot](https://i.imgur.com/Us2A1wl.jpg)
+ <img src="https://i.imgur.com/Us2A1wl.jpg" width="340" height="620">
 
 ...told you that is going to be huge.
 
