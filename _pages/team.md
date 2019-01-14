@@ -11,6 +11,6 @@ navigation: true
 
 Descendant team is a small group of 5 members including:
 
-<img src="https://i.imgur.com/8Isuxsb.jpg">
+<img src="https://i.imgur.com/8Isuxsb.jpg" >
 
 
