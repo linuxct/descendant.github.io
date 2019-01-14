@@ -9,7 +9,10 @@ navigation: true
 ## The team
 
 
-Descendant team is a small group of 11 members
+Descendant team is a small group of 5 members including:
 
-
-in progress
+Francesco Manzo @Dil3mm4
+Sergio Castell @linuxct
+Yunus İşleyen @Dekamir
+Ahmad
+Ivan Krušlin @krule031
