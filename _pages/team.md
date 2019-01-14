@@ -11,7 +11,7 @@ navigation: true
 
 Descendant team is a small group of 5 members including:
 
-<img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" width="45" height="45" >  Francesco Manzo  @Dil3mm4
+<img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" alt="hi" class="inline" width="45" height="45"/>  Francesco Manzo  @Dil3mm4
 
 <img src="https://i.ibb.co/Tk4QtkJ/sergi.jpg" width="45" height="45" >  Sergio Castell  @linuxct
 
