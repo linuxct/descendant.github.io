@@ -12,10 +12,10 @@ navigation: true
 Descendant team is a small group of 5 members including:
 
 
-<div style="text-align: left"> <img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="width:50px !important; height:50px !important;"/> </div> Francesco Manzo  @dil3mm4
+<img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" class="align-right" style="width:50px !important; height:50px !important;"/> </div> Francesco Manzo  @dil3mm4
 
 
- <img src="https://i.ibb.co/sgctdnV/krule.jpg" style="width:50px !important; height:50px !important;"/> Ivan Krušlin @krule031
+<img src="https://i.ibb.co/sgctdnV/krule.jpg" style="width:50px !important; height:50px !important;"/> Ivan Krušlin @krule031
 
 
 
