@@ -6,6 +6,7 @@ avatar: true
 navigation: true
 ---
 ## About
+<br>
 
 Descendant it's an Android Custom ROM that aims to add useful tweaks over Google's Android AOSP 9.
 Nothing fancy, straight AOSP plus some tweaks that per-my-idea should be shipped by default in any pure AOSP.
