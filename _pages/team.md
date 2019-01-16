@@ -9,7 +9,7 @@ navigation: true
 ## The team
 
 
-Descendant team is a small group of 5 members including:  
+<p>Descendant team is a small group of 6 members including:</p>
 
 
 
