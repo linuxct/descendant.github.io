@@ -13,7 +13,9 @@ Descendant team is a small group of 5 members including:
 
 
 
-<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; padding:6px; width:50px; height:50px;" align="middle;"/> Francesco Manzo {% include icon-github.html username="Dil3mm4" %}</p> 
+<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; padding:6px; width:50px; height:50px;" align="middle;"/> {% include icon-github.html username="Dil3mm4" %}
+Francesco Manzo
+Lead developer and founder</p> 
 
 <p><img src="https://i.ibb.co/VqjR8wF/nahil.jpg" style="border-radius: 50%; padding:6px; width:50px; height:50px;" align="middle;"/> Nahil  {% include icon-github.html username="NeonDragon1909" %}</p>
 
