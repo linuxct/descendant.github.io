@@ -6,19 +6,19 @@ permalink: /
 # Hello World, I'm the Descendant.
 <br>
 
- __· Get to know what's [Descendant about](https://descendant.github.io/about/).__
+### · Get to know what's [Descendant about](https://descendant.github.io/about/).
 
- __· Discover our design [with your own eyes](https://descendant.github.io/404).__
+### · Discover our design [with your own eyes](https://descendant.github.io/404).
 
- __· [Download](https://descendant.github.io/downloads) the power of Descendant to your device.__
+### · [Download](https://descendant.github.io/downloads) the power of Descendant to your device.
 
- __· Read our [blog](https://descendant.github.io/blog/) to be updated.__
+### · Read our [blog](https://descendant.github.io/blog/) to be updated.
 
- __· [Report](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md) a bug.__
+### · [Report](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md) a bug.
 
- __· Meet the [team](https://descendant.github.io/404) behind Descendant.__
+### · Meet the [team](https://descendant.github.io/404) behind Descendant.
 
- __· [Donate](https://descendant.github.io/donations) to this project.__
+### · [Donate](https://descendant.github.io/donations) to this project.
 
 
 ---
