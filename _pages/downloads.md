@@ -6,18 +6,19 @@ avatar: true
 navigation: true
 ---
 ## Downloads
+<br>
 
 ### __Descendant OneDotFive__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://bit.ly/onedotfiveaonly)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://bit.ly/onedotfiveab)
 
-#### GSI ARM A only
+__GSI ARM A only__
 
 * [Download here](https://bit.ly/onedotfivearm)
 
@@ -25,15 +26,15 @@ navigation: true
 
 ### __Descendant OneDotFour__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://drive.google.com/open?id=1dpeGCkkhjRIyua5FcORr4eOxH_Mi0S3R)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1HswI5oX1wt0yCTTQQ9gcWvJYPxD5sU-x)
 
-#### GSI ARM A only
+__GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18)
 
@@ -41,15 +42,15 @@ navigation: true
 
 ### __Descendant OneDotThree__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://drive.google.com/open?id=1QoWG349BZd1ZAY7DdRCKQdfxEpoQaeXF)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=13Ei2A2nYUEqjvfr9wcqESZg5FSFuJZAd)
 
-#### GSI ARM A only
+__GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
 
