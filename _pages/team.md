@@ -13,7 +13,7 @@ Descendant team is a small group of 5 members including:
 
 
 
-<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; padding-right:10px; width:70px; height:70px;" align="left"/> 
+<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; padding-right:10px; width:50px; height:50px;" align="left"/> 
 {% include icon-github.html username="Dil3mm4" %}<br>
 Francesco Manzo<br>
 Lead developer and founder<br></p> 
