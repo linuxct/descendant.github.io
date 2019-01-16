@@ -14,7 +14,7 @@ navigation: true
 <p class="big"><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dil3mm4" %}<br>
 Francesco Manzo<br>
-Lead developer and founder<br></p><br>
+Lead developer and founder<br></p>
 
 <p class="big"><img src="https://i.ibb.co/VqjR8wF/nahil.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" align="left"/> {% include icon-github.html username="NeonDragon1909" %}<br>
 Mohamed Nahil Hamdhy<br>
