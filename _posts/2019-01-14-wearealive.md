@@ -19,7 +19,7 @@ That said, brace brace brace, this is going to be a Descendant year.
 Oh.. meanwhile you wait for the release.. here's what the battery settings looks alike now. 
 
 
-<img src="https://i.imgur.com/Us2A1wl.jpg" style="width:250px height:450px"/>
+<img src="https://i.imgur.com/Us2A1wl.jpg" style="width:250px !important; height:450px !important;"/>
 
 
 ...told you that is going to be huge.
