@@ -28,7 +28,7 @@ Ahmad Ouerfelli<br>
 Co-developer<br></p>
 
 <p><img src="https://i.ibb.co/Tk4QtkJ/sergi.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" align="left"/> 
-{% include icon-github.html username="Dil3mm4" %}<br>
+{% include icon-github.html username="linuxct" %}<br>
 Sergio Castell<br>
 Co-developer<br></p> 
 
