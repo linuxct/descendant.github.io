@@ -9,7 +9,6 @@ navigation: true
 <br>
 
 __Descendant OneDotFive__
-
 <br>
 
 __GSI ARM64 A only__
