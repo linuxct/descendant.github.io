@@ -8,7 +8,8 @@ navigation: true
 ## Downloads
 <br>
 
-### __Descendant OneDotFive__
+__Descendant OneDotFive__
+<br>
 
 __GSI ARM64 A only__
 
