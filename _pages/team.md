@@ -21,7 +21,7 @@ Descendant team is a small group of 5 members including:
 
 <p><img src="https://i.ibb.co/f9gCwDv/yunus.jpg" style="border-radius: 50%; width:50px; height:50px;" align="middle"/> Yunus İşleyen @Dekamir</p>
 
-<p><img src="https://i.ibb.co/sgctdnV/krule.jpg" style="border-radius: 50%; padding: 20px; width:50px; height:50px;" align="middle;"/> Ivan Krušlin @krule031</p>
+<p><img src="https://i.ibb.co/sgctdnV/krule.jpg" style="border-radius: 50%; padding:20px; width:50px; height:50px;" align="middle;"/> Ivan Krušlin @krule031</p>
 
 
 
