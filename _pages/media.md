@@ -7,16 +7,7 @@ navigation: true
 ---
 
 
-
-
-<div class="row">
-  <div class="column">
-    <img src="https://i.imgur.com/Us2A1wl.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://i.imgur.com/Us2A1wl.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://i.imgur.com/Us2A1wl.jpg" style="width:100%">
-  </div>
+<div class="nav3" style="height:705px;">
+    <img src="https://i.imgur.com/Us2A1wl.jpg"></a>
+    <img src="https://i.imgur.com/Us2A1wl.jpg"></a>
 </div>
