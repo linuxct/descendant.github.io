@@ -13,7 +13,7 @@ navigation: true
 
 
 
-<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" vspace="50" align="left"/> 
+<p><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dil3mm4" %}<br>
 Francesco Manzo<br>
 Lead developer and founder<br></p> 
