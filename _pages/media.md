@@ -6,8 +6,7 @@ avatar: true
 navigation: true
 ---
 
-
-<div class="nav3" style="height:705px;">
-    <img src="https://i.imgur.com/Us2A1wl.jpg"></a>
-    <img src="https://i.imgur.com/Us2A1wl.jpg"></a>
-</div>
+<img src="https://i.imgur.com/Us2A1wl.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://i.imgur.com/Us2A1wl.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://i.imgur.com/Us2A1wl.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://i.imgur.com/Us2A1wl.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
