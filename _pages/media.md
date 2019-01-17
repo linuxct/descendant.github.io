@@ -5,7 +5,7 @@ permalink: /media/
 avatar: true
 navigation: true
 ---
-<button onclick="goBack() style="float: left;">Go Back</button>
+<button onclick="goBack(); style="float: left;">Go Back</button>
 
 <script>
 function goBack() {
