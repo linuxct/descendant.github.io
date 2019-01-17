@@ -16,3 +16,9 @@ navigation: true
 <button onclick="window.location.href = 'https://i.imgur.com/Us2A1wl.jpg';">Download</button>
 
 <button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
