@@ -8,6 +8,9 @@ navigation: true
 ## __Descendant Screenshots__
 
 
+
+
+
 <p>Here you can see some screenshot of Descendant in its full glory!</p>
 
 
