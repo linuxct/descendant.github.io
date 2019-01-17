@@ -14,7 +14,7 @@ navigation: true
 
 __GSI ARM64 A only__
 
-* <button onclick="window.location.href = 'https://bit.ly/onedotfiveaonly';">Download here</button>
+* [Download here](https://bit.ly/onedotfiveaonly)
 
 __GSI ARM64 AB__
 
