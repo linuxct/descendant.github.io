@@ -5,7 +5,7 @@ permalink: /media/
 avatar: true
 navigation: true
 ---
-## __Descendant screenshots__
+## __Descendant Screenshots__
 <br>
 <p>Here you can see some screenshot of Descendant in its full glory!</p>
 
