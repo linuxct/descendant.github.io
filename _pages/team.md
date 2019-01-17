@@ -10,7 +10,6 @@ navigation: true
 <br>
 <p>Descendant team is a small group of 6 members including:</p>
 
-<br>
 <p style="padding-bottom:15px;"><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:10px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dil3mm4" %}<br>
 Francesco Manzo<br>
