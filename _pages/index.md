@@ -3,7 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
-<center><h2> Hello World, I'm the Descendant. <h2></center>
+## Hello World, I'm the Descendant.
 <br>
 
 ### · Get to know what's [Descendant about](https://descendant.github.io/about/).
