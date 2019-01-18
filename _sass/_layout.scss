@@ -30,7 +30,7 @@
 
 
 .site-nav {
-  float: left;
+  float: right;
   position: absolute;
   top: 18px;
   right: $spacing-unit / 2;
@@ -38,7 +38,7 @@
   border-radius: 5px;
 
   .menu-icon {
-    float: left;
+    float: right;
     width: 36px;
     height: 36px;
     line-height: 0;
