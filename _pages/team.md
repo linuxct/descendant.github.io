@@ -29,7 +29,7 @@ Co-developer<br></p>
 Sergio Castell<br>
 Co-developer<br></p>
 
-<p style="padding-bottom:10px; padding-top:15px;"><img src="https://i.ibb.co/f9gCwDv/yunus.jpg" style="border-radius: 50%; margin-right:13px; width:75px; height:75px;" align="left"/> 
+<p style="padding-bottom:10px; padding-top:15px;"><img src="https://i.ibb.co/QXBkcfw/photo-2018-11-17-07-10-12.jpg" style="border-radius: 50%; margin-right:13px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dekamir" %}<br>
 Yunus İşleyen<br>
 Lead designer<br></p>
