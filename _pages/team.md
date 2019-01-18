@@ -1,11 +1,11 @@
 ---
 layout: default
-title: The team
+title: The Team
 permalink: /team/
 avatar: true
 navigation: true
 ---
-# The team
+# The Team
 
 <br>
 <p>Descendant team is a small group of 6 members including:</p>
