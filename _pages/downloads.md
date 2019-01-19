@@ -105,7 +105,7 @@ __GSI ARM64 AB__
 
 </details>
 
-<br>
+---
 
 If you want to know the set of changes for each release, please, head to the [blog](https://descendant.github.io/blog/).
 
