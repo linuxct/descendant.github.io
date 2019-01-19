@@ -30,7 +30,7 @@ __GSI ARM A only__
 
 <br>
 
-<details>
+<details open>
   
 <summary> Older downloads </summary>
 
