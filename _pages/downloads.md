@@ -14,7 +14,7 @@ navigation: true
 
 __GSI ARM64 A only__
 
-* <a href="https://bit.ly/onedotfiveaonly"><img src="https://www.pngarts.com/files/2/Download-Button-PNG-Image-Background.png" style="width: 15%"></a>
+* <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 20%"></a>
 
 __GSI ARM64 AB__
 
