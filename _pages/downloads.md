@@ -33,12 +33,6 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
 ---
 
 <details>
-  <summary>System Requirements</summary>
-  <p>Requires a computer running an operating system. The computer
-  must have some memory and ideally some kind of long-term storage.
-  An input device as well as some form of output device is
-  recommended.</p>
-</details>
   
 ---
 
@@ -107,6 +101,7 @@ __GSI ARM64 A only__
 __GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
+<details/>
 
 <br>
 
