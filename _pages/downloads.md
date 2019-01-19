@@ -14,8 +14,7 @@ navigation: true
 
 __GSI ARM64 A only__
 
-* [Download here](https://bit.ly/onedotfiveaonly) <a href="https://bit.ly/onedotfiveaonly">
-  <img src="/assets/download-button.png" style="width: 20%"></a>
+* <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download-button.png" style="width: 15%"></a>
 
 __GSI ARM64 AB__
 
