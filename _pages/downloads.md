@@ -38,7 +38,7 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
   must have some memory and ideally some kind of long-term storage.
   An input device as well as some form of output device is
   recommended.</p>
-</details
+</details>
   
 ---
 
