@@ -30,10 +30,8 @@ __GSI ARM A only__
 
 <br>
 
-<details open>
-  
-<summary> Older downloads </summary>
-
+<details open> 
+ <summary> Older downloads </summary>
 ### __Descendant OneDotFour__
 
 <br>
@@ -108,9 +106,7 @@ __GSI ARM A only__
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
-
-</details>
+* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)</details>
 
 ---
 
