@@ -6,4 +6,7 @@ avatar: true
 navigation: true
 ---
 # Donations
+
+<br>
+
 If you appreciate my ROM, please consider to donate via Paypal at dil3mm4.dev@gmail.com
