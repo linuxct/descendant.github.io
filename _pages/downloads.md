@@ -29,8 +29,9 @@ __GSI ARM A only__
 &emsp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
 
 <br>
+
 <details>
-  <summary>Older downloads</summary>
+  <summary>Copyright 1999-2014.</summary>
  
 ### __Descendant OneDotFour__
 
@@ -106,7 +107,8 @@ __GSI ARM A only__
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)</details>
+* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
+</details>
 
 ---
 
