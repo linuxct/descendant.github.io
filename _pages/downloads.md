@@ -32,7 +32,10 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
 
 ---
 
-<detail>
+<div class="details">
+  <div class="summary">Details Summary</div>
+  <p>Pellentesque aliquet lacinia libero...</p>
+</div>
   
 ---
 
