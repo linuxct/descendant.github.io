@@ -31,7 +31,6 @@ __GSI ARM A only__
 <br>
 
 <details>
-  <summary>Copyright 1999-2014.</summary>
  
 ### __Descendant OneDotFour__
 
