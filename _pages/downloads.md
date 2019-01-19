@@ -33,7 +33,6 @@ __GSI ARM A only__
 <div id="spoiler" style="display:none">
 
 ### __Descendant OneDotFour__
----
 
 __GSI ARM64 A only__
 
@@ -46,10 +45,9 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18)
-
+---
   
 ### __Descendant OneDotThree__
----
 
 __GSI ARM64 A only__
 
@@ -65,7 +63,6 @@ __GSI ARM A only__
 
   
 ### __Descendant OneDotTwo__
----
 
 #### GSI ARM64 A only
 
@@ -77,7 +74,6 @@ __GSI ARM A only__
 
 
 ### __Descendant OneDotOne__
----
 
 #### GSI ARM64 A only
 
@@ -89,7 +85,6 @@ __GSI ARM A only__
 
 
 ### Descendant OneDotZero
----
 
 #### GSI ARM64 A only
 
