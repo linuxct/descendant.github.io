@@ -30,7 +30,8 @@ __GSI ARM A only__
 
 <br>
 
-<details style="display:inline;">
+<details>
+ 
 <summary>Older downloads</summary>
  
 ### __Descendant OneDotFour__
