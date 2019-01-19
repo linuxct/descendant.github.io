@@ -31,9 +31,8 @@ __GSI ARM A only__
 <br>
 
 <details>
+  
 <summary> Older downloads </summary>
-
-<p>
 
 ### __Descendant OneDotFour__
 
@@ -49,10 +48,9 @@ __GSI ARM64 AB__
 
 __GSI ARM A only__
 
-* [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18) </p>
+* [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18)
 
 ---
-<p>
   
 ### __Descendant OneDotThree__
 
@@ -68,10 +66,9 @@ __GSI ARM64 AB__
 
 __GSI ARM A only__
 
-* [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn) </p>
+* [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
 
 ---
-<p>
   
 ### __Descendant OneDotTwo__
 
@@ -83,7 +80,7 @@ __GSI ARM A only__
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6) </p>
+* [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6)
 
 ---
 
@@ -91,15 +88,13 @@ __GSI ARM A only__
 
 <br>
 
-<p>
-
 #### GSI ARM64 A only
 
 * [Download here](https://drive.google.com/open?id=187V7yq7yGmaIG6n-X1SIfCflWcaFgdXQ)
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg) </p>
+* [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg)
 
 ---
 
@@ -113,7 +108,8 @@ __GSI ARM A only__
 
 #### GSI ARM64 AB
 
-* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl) </p>
+* [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
+
 </details>
 
 ---
