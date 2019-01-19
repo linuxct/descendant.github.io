@@ -30,7 +30,6 @@ __GSI ARM A only__
 
 <br>
 
-<p style="display:inline";>
 <details style="display:inline;">
 <summary>Older downloads</summary>
  
