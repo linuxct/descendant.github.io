@@ -5,10 +5,10 @@ permalink: /downloads/
 avatar: true
 navigation: true
 ---
-## Downloads
+# Downloads
 <br>
 
-### __Descendant OneDotFive__
+## __Descendant OneDotFive__
 
 __GSI ARM64 A only__
 
