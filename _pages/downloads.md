@@ -10,7 +10,7 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
-<br>
+---
 
 __GSI ARM64 A only__
 
@@ -37,7 +37,7 @@ __GSI ARM A only__
 
 ### __Descendant OneDotFour__
 
-<br>
+---
 
 __GSI ARM64 A only__
 
@@ -55,7 +55,7 @@ __GSI ARM A only__
   
 ### __Descendant OneDotThree__
 
-<br>
+---
 
 __GSI ARM64 A only__
 
@@ -73,7 +73,7 @@ __GSI ARM A only__
   
 ### __Descendant OneDotTwo__
 
-<br>
+---
 
 #### GSI ARM64 A only
 
@@ -87,7 +87,7 @@ __GSI ARM A only__
 
 ### __Descendant OneDotOne__
 
-<br>
+---
 
 #### GSI ARM64 A only
 
@@ -101,7 +101,7 @@ __GSI ARM A only__
 
 ### Descendant OneDotZero
 
-<br>
+---
 
 #### GSI ARM64 A only
 
