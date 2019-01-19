@@ -10,25 +10,25 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
-<br style = “line-height:70px;”>
+<br>
 
 __GSI ARM64 A only__
 
 <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a>
 
-<br style = “line-height:70px;”>
+<br style = “line-height:70;”>
 
 __GSI ARM64 AB__
 
 <a href="https://bit.ly/onedotfiveab"><img src="/assets/download.png" style="width: 25%"></a>
 
-<br style = “line-height:70px;”>
+<br style = “line-height:70;”>
 
 __GSI ARM A only__
 
 <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
 
-<br style = “line-height:70px;”>
+<br style = “line-height:70;”>
 
 ### __Descendant OneDotFour__
 
