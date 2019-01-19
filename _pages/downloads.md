@@ -6,9 +6,10 @@ avatar: true
 navigation: true
 ---
 # Downloads
-<br>
 
-## __Descendant OneDotFive__
+---
+
+##$ __Descendant OneDotFive__
 
 __GSI ARM64 A only__
 
