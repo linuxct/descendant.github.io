@@ -9,7 +9,6 @@ navigation: true
 <br>
 
 ### __Descendant OneDotFive__
----
 
 __GSI ARM64 A only__
 
@@ -27,7 +26,7 @@ __GSI ARM A only__
 
 &emsp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
 
-<br>
+---
 
 <button title="Older downloads" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Older downloads</button>
 <div id="spoiler" style="display:none">
@@ -60,7 +59,7 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
-
+---
   
 ### __Descendant OneDotTwo__
 
@@ -71,7 +70,7 @@ __GSI ARM A only__
 #### GSI ARM64 AB
 
 * [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6)
-
+---
 
 ### __Descendant OneDotOne__
 
@@ -82,7 +81,7 @@ __GSI ARM A only__
 #### GSI ARM64 AB
 
 * [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg)
-
+---
 
 ### Descendant OneDotZero
 
