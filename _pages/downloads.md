@@ -11,6 +11,7 @@ navigation: true
 ### __Descendant OneDotFive__
 
 ---
+You can read OneDotFive changelog <a href="https://bit.ly/onedotfiveaonly" target="_blank">here</a>.
 
 __GSI ARM64 A only__
 
