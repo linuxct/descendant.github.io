@@ -44,6 +44,7 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18)
+
 ---
   
 ### __Descendant OneDotThree__
@@ -59,6 +60,7 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
+
 ---
   
 ### __Descendant OneDotTwo__
@@ -70,6 +72,7 @@ __GSI ARM A only__
 #### GSI ARM64 AB
 
 * [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6)
+
 ---
 
 ### __Descendant OneDotOne__
@@ -81,6 +84,7 @@ __GSI ARM A only__
 #### GSI ARM64 AB
 
 * [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg)
+
 ---
 
 ### Descendant OneDotZero
@@ -93,8 +97,6 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
 </div>
-
----
 
 If you want to know the set of changes for each release, please, head to the [blog](https://descendant.github.io/blog/).
 
