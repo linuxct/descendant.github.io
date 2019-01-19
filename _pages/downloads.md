@@ -10,6 +10,8 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
+<br>
+
 You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
 
 
