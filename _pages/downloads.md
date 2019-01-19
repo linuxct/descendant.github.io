@@ -103,8 +103,6 @@ __GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
 
----
-
 </div>
 
 <br>
