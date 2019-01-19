@@ -10,9 +10,10 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
+---
+
 You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
 
----
 
 __GSI ARM64 A only__
 
