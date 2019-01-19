@@ -33,7 +33,7 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
 
 ---
 
-<details><summary>Old downloads</summary>
+<details><p><summary>Old downloads</summary></p>
   
 ---
 
