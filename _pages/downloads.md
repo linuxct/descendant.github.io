@@ -32,6 +32,8 @@ __GSI ARM A only__
 
 <button title="Older downloads" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Older downloads</button>
 <div id="spoiler" style="display:none">
+  
+<br>
 
 ### __Descendant OneDotFour__
 
@@ -79,11 +81,11 @@ __GSI ARM A only__
 
 ### __Descendant OneDotOne__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://drive.google.com/open?id=187V7yq7yGmaIG6n-X1SIfCflWcaFgdXQ)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg)
 
@@ -91,11 +93,11 @@ __GSI ARM A only__
 
 ### __Descendant OneDotZero__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://drive.google.com/open?id=1L6O1m6MheQaYDoc0wFgjssIfFCzcPgov)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
 </div>
