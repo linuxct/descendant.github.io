@@ -47,7 +47,6 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1Yjp3RXhCh4HNgjKOFzgy-QUMEjPT6f18)
 
----
   
 ### __Descendant OneDotThree__
 ---
@@ -64,7 +63,6 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1VDxjS-L0bAA604jxb2Fi6inTJQugJkEn)
 
----
   
 ### __Descendant OneDotTwo__
 ---
@@ -77,7 +75,6 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6)
 
----
 
 ### __Descendant OneDotOne__
 ---
@@ -90,7 +87,6 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1BqPalGTwY_kwaAyL2JFRzozkSihgJQHg)
 
----
 
 ### Descendant OneDotZero
 ---
