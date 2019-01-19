@@ -10,11 +10,6 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
-<br>
-
-You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
-
-
 __GSI ARM64 A only__
 
 &emsp; <a href="https://bit.ly/onedotfiveaonly" target="_blank"><img src="/assets/download.png" style="width: 25%"></a>
@@ -30,6 +25,10 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 &emsp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
+
+<br>
+
+You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
 
 ---
 
