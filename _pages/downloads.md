@@ -29,7 +29,6 @@ __GSI ARM A only__
 &emsp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
 
 <br>
-
 <details>
   <summary>Older downloads</summary>
  
