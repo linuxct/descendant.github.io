@@ -14,7 +14,7 @@ navigation: true
 
 __GSI ARM64 A only__
 
-&emsp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a> &emsp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/changelog.png" style="width: 10%">
+&emsp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a> &emsp; <a href="https://descendant.github.io/blog/OneDotFive"><img src="/assets/changelog.png" style="width: 10%">
 
 <br>
 
