@@ -14,19 +14,19 @@ navigation: true
 
 __GSI ARM64 A only__
 
-&ensp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a>
+&emsp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&ensp; <a href="https://bit.ly/onedotfiveab"><img src="/assets/download.png" style="width: 25%"></a>
+&emsp; <a href="https://bit.ly/onedotfiveab"><img src="/assets/download.png" style="width: 25%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&ensp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
+&emsp; <a href="https://bit.ly/onedotfivearm"><img src="/assets/download.png" style="width: 25%"></a>
 
 <br>
 
