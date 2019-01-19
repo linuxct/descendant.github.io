@@ -30,10 +30,10 @@ __GSI ARM A only__
 
 <br>
 
-<br>
-
 <button title="Older downloads" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Older downloads</button>
 <div id="spoiler" style="display:none">
+
+<br>
 
 ### __Descendant OneDotFour__
 
