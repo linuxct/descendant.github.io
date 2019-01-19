@@ -32,8 +32,8 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
 
 ---
 
-<button title="Older downloads" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Older downloads</button>
-<div id="spoiler" style="display:none">
+<details>
+    <summary>Older downloads</summary>
   
 ---
 
@@ -102,7 +102,7 @@ __GSI ARM64 A only__
 __GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
-</div>
+</details>
 
 <br>
 
