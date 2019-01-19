@@ -10,6 +10,8 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
+---
+
 __GSI ARM64 A only__
 
 &emsp; <a href="https://bit.ly/onedotfiveaonly"><img src="/assets/download.png" style="width: 25%"></a>
@@ -87,7 +89,7 @@ __GSI ARM A only__
 
 ---
 
-### Descendant OneDotZero
+### __Descendant OneDotZero__
 
 #### GSI ARM64 A only
 
@@ -97,6 +99,8 @@ __GSI ARM A only__
 
 * [Download here](https://drive.google.com/open?id=1jOa3xY6SXwe-zXd0aR6Nd-knEYDmW4vl)
 </div>
+
+<br>
 
 If you want to know the set of changes for each release, please, head to the [blog](https://descendant.github.io/blog/).
 
