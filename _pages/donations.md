@@ -9,4 +9,4 @@ navigation: true
 
 <br>
 
-<p>If you appreciate my ROM, please consider to donate via <img src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2000px-PayPal.svg.png" style="width: 15%"> at dil3mm4.dev@gmail.com</p>
+<p>If you appreciate my ROM, please consider to donate via <img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c530.png" style="width: 15%"> at dil3mm4.dev@gmail.com</p>
