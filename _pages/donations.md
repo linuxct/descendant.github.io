@@ -9,4 +9,4 @@ navigation: true
 
 <br>
 
-<p>If you appreciate my ROM, please consider to donate via <img src="https://www.sellmygroup.co.uk/blog/wp-content/uploads/2018/01/PayPal-Logo.jpg" style="width: 25%"> at dil3mm4.dev@gmail.com</p>
+<p>If you appreciate my ROM, please consider to donate via <img src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2000px-PayPal.svg.png" style="width: 25%"> at dil3mm4.dev@gmail.com</p>
