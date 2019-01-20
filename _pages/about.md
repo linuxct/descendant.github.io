@@ -8,7 +8,7 @@ navigation: true
 ## About
 <br>
 
-Descendant it's an Android Custom ROM that aims to add useful tweaks over Google's Android AOSP 9.
+Descendant is an Android Custom ROM that aims to add useful tweaks over Google's Android AOSP 9.
 Nothing fancy, straight AOSP plus some tweaks that per-my-idea should be shipped by default in any pure AOSP.
 
 Founded and leaded by {% include icon-github.html username="Dil3mm4" %}, Descendant it's an open-source project that (at the moment) targets Treble enabled devices.
@@ -21,7 +21,7 @@ Also, do mind that this project requires a lot of efforts, sleepless nights and 
 
 You may have noticed that I'm not monetizing the downloads with ADS services. 
 
-If you're appreciating my ROM, please consider to donate via Paypal at dil3mm4.dev@gmail.com
+<p>If you appreciate my ROM, please consider to donate via <img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c530.png" style="width: 11%"> at dil3mm4.dev@gmail.com.</p>
 
 <p>For issue reports and feature requests, you can join [this](https://t.me/descendant_labyrinth_support) <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-7-569219.png" style="width:20px; height:20px;"/> group.</p>
 
