@@ -7,6 +7,7 @@ categories: Descendant
 
 __Here is the OneDotFive changelog, enjoy.__
 
+<hr>
 
 UI design changes
 
