@@ -5,7 +5,7 @@ permalink: /donations/
 avatar: true
 navigation: true
 ---
-## Donations
+<h2 align="center">Donations</h2>
 
 <hr>
 
