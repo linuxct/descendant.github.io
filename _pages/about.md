@@ -5,7 +5,7 @@ permalink: /about/
 avatar: true
 navigation: true
 ---
-## About
+# About
 
 <hr>
 
