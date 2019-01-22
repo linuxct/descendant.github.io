@@ -29,6 +29,12 @@ __GSI ARM A only__
 
 <br>
 
+__Mediafire Mirror__
+
+&emsp; <a href="http://bit.ly/descendantmirror"><img src="/assets/download.png" style="width: 24%"></a>
+
+<br>
+
 You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
 
 ---
