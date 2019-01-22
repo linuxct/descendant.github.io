@@ -7,7 +7,8 @@ navigation: true
 ---
 <h2 align="center">The Team</h2>
 
-<br>
+<hr>
+
 <p>Descendant team is a small group of 6 members including:</p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
