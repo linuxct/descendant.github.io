@@ -5,6 +5,8 @@ date:   2019-1-13 04:32:21 +0100
 categories: Descendant
 ---
 
+<hr>
+
 __Here is the OneDotFive changelog, enjoy.__
 
 <hr>
