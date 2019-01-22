@@ -12,9 +12,9 @@ avatar: true
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p class="description">
             {% if post.description %}
-                {{ post.description | truncate: 250 }}
+                {{ post.description | strip_html | runcate: 250 }}
             {% else %}
-                {{ post.content | truncate: 250 }}
+                {{ post.content | strip_html | truncate: 250 }}
             {% endif %}</p>
       </li>
     {% endfor %}
