@@ -5,7 +5,7 @@ permalink: /donations/
 avatar: true
 navigation: true
 ---
-# Donations
+## Donations
 
 <hr>
 
