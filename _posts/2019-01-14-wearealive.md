@@ -4,6 +4,8 @@ title:  "We're more than alive."
 date:   2019-01-14 04:32:21 +0100
 categories: Descendant
 ---
+
+<hr>
  
 Since you may have noticed that no release happened from Descendant OneDotFive and that a lot of you wondered if we went dead or what, here I'm writing this couple of lines. 
 
