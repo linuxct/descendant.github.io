@@ -60,7 +60,7 @@ Misc Enhancements
 Be sure to get yourself a fresh version of Descendant [here](https://descendant.github.io/downloads/).
 
 
----
+<hr>
 
 
 
