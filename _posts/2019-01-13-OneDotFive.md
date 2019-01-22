@@ -7,11 +7,11 @@ categories: Descendant
 
 <hr>
 
-__Here is the OneDotFive changelog, enjoy.__
+Here is the OneDotFive changelog, enjoy.
 
 <br>
 
-UI design changes
+__UI design changes__
 
 - Solved a problem that was still preventing a correct icon tinting on notification while using Black Theme.
 - Brightness controlbar is now on QS footer.
@@ -21,7 +21,7 @@ UI design changes
 - Settings -> Display
 - Redesigned Descendant's logo, icons and bootanimation.
 
-New Features
+__New Features__
 
 - Fingerprint sensor is now capable of dismissing notifications if it's enabled to do so in:
 - Settings -> Descendant -> Gestures -> AOSP Gestures
@@ -43,7 +43,7 @@ New Features
   available in:
   Settings -> Descendant -> Miscellaneous
 
-Misc Enhancements
+__Misc Enhancements__
 
 - Airplane tile is now secured while on lockscreen.
 - When taking a screenshot, the app name will be appended to the filename.
@@ -56,6 +56,8 @@ Misc Enhancements
 - Hardware support updates
 - Synced to latest phh sources plus the following additions:
 - Fixed USSD for MTK devices
+
+<br>
 
 Be sure to get yourself a fresh version of Descendant [here](https://descendant.github.io/downloads/).
 
