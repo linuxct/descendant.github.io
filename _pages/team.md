@@ -5,7 +5,7 @@ permalink: /team/
 avatar: true
 navigation: true
 ---
-# The Team
+<h2 align="center">The Team</h2>
 
 <br>
 <p>Descendant team is a small group of 6 members including:</p>
