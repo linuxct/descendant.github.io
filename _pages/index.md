@@ -3,7 +3,7 @@ layout: default
 avatar: true
 permalink: /
 ---
-<h1 align="center">Hello World, I'm the Descendant.</h2>
+<h2 align="center">Hello World, I'm the Descendant.</h2>
 
 <hr>
 
