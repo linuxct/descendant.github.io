@@ -5,7 +5,8 @@ permalink: /downloads/
 avatar: true
 navigation: true
 ---
-## Downloads
+
+<h2 align="center">Downloads</h2>
 
 <hr>
 
