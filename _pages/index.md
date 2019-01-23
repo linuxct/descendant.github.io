@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hello World, I'm the Descendant.
 avatar: true
 permalink: /
 ---
@@ -23,5 +24,4 @@ permalink: /
 
 
 ---
-
 
