@@ -34,7 +34,7 @@ navigation: true
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/QXBkcfw/photo-2018-11-17-07-10-12.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dekamir" %}<br>
-<img src="/assets/img/icons/person.png" style="width: 2%"> &nbsp; <img src="/assets/img/icons/person.png" style="width: 2%"> &nbsp; Yunus İşleyen<br>
+<img src="/assets/img/icons/person.png" style="width: 2%"> &nbsp; <Yunus İşleyen<br>
 <img src="/assets/img/icons/brush.png" style="width: 2%"> &nbsp; Lead designer<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/TcHhx5w/k-new-black-big.png" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
