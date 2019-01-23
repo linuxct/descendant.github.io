@@ -39,6 +39,8 @@ navigation: true
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Ivan Krušlin  <br>
 <img src="/assets/img/icons/brush.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-designer and website editor<br></p>
 
+<hr>
+
 
 
 
