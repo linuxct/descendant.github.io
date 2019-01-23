@@ -7,7 +7,7 @@ permalink: /
 
 <hr>
 
-### <img src="/assets/img/icons/info.png" style="width: 10%"> Get to know what's [Descendant about](https://descendant.github.io/about/).
+### <img src="/assets/img/icons/info.png" style="width: 5%"> Get to know what's [Descendant about](https://descendant.github.io/about/).
 
 ### · Discover our design [with your own eyes](https://descendant.github.io/404).
 
