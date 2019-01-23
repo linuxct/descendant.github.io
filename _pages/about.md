@@ -22,7 +22,7 @@ Also, do mind that this project requires a lot of efforts, sleepless nights and 
 
 You may have noticed that I'm not monetizing the downloads with ADS services. 
 
-<p>If you appreciate my ROM, please consider to donate via <img src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c530.png" style="width: 11%"> at dil3mm4.dev@gmail.com.</p>
+<p>If you appreciate my ROM, please consider to donate via <img src="/assets/img/paypal.png" style="width: 11%"> at dil3mm4.dev@gmail.com.</p>
 
-<p>For issue reports and feature requests, you can join [this](https://t.me/descendant_labyrinth_support) <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-7-569219.png" style="width:20px; height:20px;"/> group.</p>
+<p>For issue reports and feature requests, you can join [this](https://t.me/descendant_labyrinth_support) <img src="/assets/img/telegram.png" style="width:20px; height:20px;"/> group.</p>
 
