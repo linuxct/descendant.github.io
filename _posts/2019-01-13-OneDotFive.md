@@ -9,7 +9,7 @@ categories: Descendant
 
 Here is the OneDotFive changelog, enjoy.
 
-<br>
+#x2424;
 
 __UI design changes__
 
