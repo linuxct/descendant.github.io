@@ -5,7 +5,7 @@ permalink: /team/
 avatar: true
 navigation: true
 ---
-<h2 align="center">The Team</h2>
+<h2 align="center">Descendant's Team members</h2>
 
 <hr>
 
