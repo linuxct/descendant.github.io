@@ -18,7 +18,7 @@ permalink: /
 
 ### <img src="/assets/img/icons/bug.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> [Report](https://github.com/Descendant/bug_tracker/issues/new?template=bug_report.md) a bug.
 
-### <img src="/assets/img/icons/account-group.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> Meet the [team](https://descendant.github.io/404) behind Descendant.
+### <img src="/assets/img/icons/account-group.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> Meet the [team](https://descendant.github.io/team) behind Descendant.
 
 ### <img src="/assets/img/icons/cash-usd.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> [Donate](https://descendant.github.io/donations) to this project.
 
