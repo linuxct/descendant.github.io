@@ -32,9 +32,9 @@ navigation: true
 <img src="/assets/img/icons/person.png" style="width: 3%"> &thinsp; Sergio Castell<br>
 <img src="/assets/img/icons/developer.png" style="width: 3%"> &thinsp; Co-developer<br></p>
 
-<p style="padding-bottom:10px;"><img src="https://i.ibb.co/QXBkcfw/photo-2018-11-17-07-10-12.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
+<p style="padding-bottom:10px;"><img src="https://i.ibb.co/f9gCwDv/yunus.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dekamir" %}<br>
-<img src="/assets/img/icons/person.png" style="width: 3%"> &thinsp; <Yunus İşleyen<br>
+<img src="/assets/img/icons/person.png" style="width: 3%"> &thinsp; Yunus İşleyen<br>
 <img src="/assets/img/icons/brush.png" style="width: 3%"> &thinsp; Lead designer<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/TcHhx5w/k-new-black-big.png" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
