@@ -25,7 +25,7 @@ navigation: true
 <img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-developer<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/Tk4QtkJ/sergi.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
-<img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/linuxct">linuxct</a><br>
+<img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; linuxct <br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Sergio Castell<br>
 <img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-developer<br></p>
 
