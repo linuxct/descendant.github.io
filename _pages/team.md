@@ -15,8 +15,8 @@ navigation: true
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/CVNtSYp/dil3mm4.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 {% include icon-github.html username="Dil3mm4" %}<br>
-<img src="https://i.imgur.com/tPJvBoZ.png" style="width: 3%">Francesco M.<br>
-Lead developer and founder<br></p>
+Francesco M.<br>
+<img src="https://i.imgur.com/tPJvBoZ.png" style="width: 3%">Lead developer and founder<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/VqjR8wF/nahil.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> {% include icon-github.html username="NeonDragon1909" %}<br>
 Mohamed Nahil Hamdhy<br>
