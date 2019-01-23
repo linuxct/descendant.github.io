@@ -5,13 +5,9 @@ permalink: /team/
 avatar: true
 navigation: true
 ---
-<h2 align="center">Descendant's Team members</h2>
+<h2 align="center">Descendant's Team Members</h2>
 
 <hr>
-
-<p>Descendant team is a small group of 6 members including:</p>
-
-<br>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/M8dkRwm/dil3mm4.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Dil3mm4">Dil3mm4</a><br>
