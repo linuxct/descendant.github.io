@@ -47,7 +47,7 @@ You can read OneDotFive changelog <a href="https://descendant.github.io/blog/One
        display: inline;
              ">Older downloads</p>
    </summary>
----
+<hr>
 
 ### __Descendant OneDotFour__
 
@@ -83,11 +83,11 @@ __GSI ARM A only__
   
 ### __Descendant OneDotTwo__
 
-#### GSI ARM64 A only
+__GSI ARM64 A only__
 
 * [Download here](https://drive.google.com/open?id=1-pxbGdHrdS7xicNqr9OJmHhY1IApZQeS)
 
-#### GSI ARM64 AB
+__GSI ARM64 AB__
 
 * [Download here](https://drive.google.com/open?id=1_Q_SWZpPWIPg8iKwvpyE8a8Q3daEnGe6)
 
