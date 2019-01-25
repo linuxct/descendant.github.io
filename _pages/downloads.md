@@ -12,6 +12,8 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
+<hr>
+
 __GSI ARM64 A only__
 
 &emsp; <a href="https://bit.ly/onedotfiveaonly" target="_blank"><img src="/assets/download.png" style="width: 24%"></a>
