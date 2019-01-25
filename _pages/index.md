@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Descendant｜Home
+title: Home
 avatar: true
 permalink: /
 ---
