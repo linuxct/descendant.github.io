@@ -12,7 +12,7 @@ navigation: true
 
 ### __Descendant OneDotFive__
 
-<hr>
+<br>
 
 __GSI ARM64 A only__
 
