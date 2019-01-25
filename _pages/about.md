@@ -26,3 +26,5 @@ You may have noticed that I'm not monetizing the downloads with ADS services.
 
 <p>For issue reports and feature requests, you can join [this](https://t.me/descendant_labyrinth_support) <img src="/assets/img/telegram.png" style="width:20px; height:20px;"/> group.</p>
 
+<hr>
+
