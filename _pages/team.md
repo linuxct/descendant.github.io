@@ -37,7 +37,7 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/TcHhx5w/k-new-black-big.png" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/krux3r">krux3r</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Ivan Krušlin  <br>
-<img src="/assets/img/icons/brush.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-designer and website editor<br></p>
+<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-designer and website editor<br></p>
 
 <hr>
 
