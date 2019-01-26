@@ -12,7 +12,7 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/M8dkRwm/dil3mm4.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Dil3mm4">Dil3mm4</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Francesco M.<br>
-<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Lead developer and founder<br></p>
+<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Lead developer & founder<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/VqjR8wF/nahil.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/NeonDragon1909">NeonDragon1909</a><br>
@@ -37,7 +37,7 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/TcHhx5w/k-new-black-big.png" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/krux3r">krux3r</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Ivan Krušlin  <br>
-<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-designer and website editor<br></p>
+<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Co-designer & website editor<br></p>
 
 <hr>
 
