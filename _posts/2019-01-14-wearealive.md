@@ -23,6 +23,7 @@ Oh.. meanwhile you wait for the release.. here's what the battery settings looks
 
 <p><img src="https://i.imgur.com/Us2A1wl.jpg" style="width:45%; height:45%;"/></p>
 
+<img src="https://i.ibb.co/jwS5Nn2/screener-1548462419599.png" style="width: 40%">
 
 ...told you that is going to be huge.
 
