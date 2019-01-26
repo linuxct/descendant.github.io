@@ -9,7 +9,7 @@ avatar: true
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-          <img src="/assets/img/calendar.png" style="width: 2%; padding-right:3px"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <img src="/assets/img/calendar.png" style="width: 3%; padding-right:4px"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <p class="description">
             {% if post.description %}
                 {{ post.description | strip_html | truncate: 250 }}
