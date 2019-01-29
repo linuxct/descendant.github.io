@@ -27,6 +27,6 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/sgctdnV/krule.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/krux3r" target="_blank">krux3r</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Ivan Krušlin  <br>
-<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp;Website editor and graphical contributor<br></p>
+<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Website editor and graphical contributor<br></p>
 
 <hr>
