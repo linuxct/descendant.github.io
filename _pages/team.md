@@ -12,7 +12,7 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/5vP9jhg/phh.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/phhusson" target="_blank">phhusson</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Pierre-Hugues Husson<br>
-<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; ode reviewing, treble implementation on which Descendant is based on<br></p>
+<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Code reviewing, treble implementation on which Descendant is based on<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/QF3Jcwm/ezio.jpg" style="border-radius: 50%; margin-right:14px; width:75px; height:75px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/ezio84" target="_blank">ezio84</a><br>
