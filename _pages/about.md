@@ -24,7 +24,7 @@ You may have noticed that I'm not monetizing the downloads with ADS services.
 
 <p>If you appreciate my ROM, please consider to donate via <img src="/assets/img/paypal.png" style="width: 11%"> at dil3mm4.dev@gmail.com.</p>
 
-<p>For issue reports and feature requests, you can join <a href="https://t.me/descendant_labyrinth_support/" target="_blank">this</a> <img src="/assets/img/telegram.png" style="width:20px; height:20px;"/>group.</p>
+<p>For issue reports and feature requests, you can join <a href="https://t.me/descendant_labyrinth_support/" target="_blank">this</a> <img src="/assets/img/telegram.png" style="width:20px; height:20px;"/> group.</p>
 
 <hr>
 
