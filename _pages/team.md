@@ -1,6 +1,6 @@
 ---
 layout: default
-title: External contributors
+title: External contrib.
 permalink: /extcontrib/
 avatar: true
 navigation: true
