@@ -57,7 +57,7 @@ navigation: true
 
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/sound.png" style="width: 100%"></a>Sound</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/sound2.png" style="width: 100%"></a>Sound</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/exvolume.png" style="width: 100%"></a>Volume panel</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/exvolume.png" style="width: 100%"></a>Ex. volume panel</p></center>
 
 <br>
 
