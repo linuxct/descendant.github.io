@@ -10,7 +10,7 @@ permalink: /
 
 ### <img src="/assets/img/icons/info.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> Get to know what's [Descendant about](https://descendant.github.io/about/).
 
-### <img src="/assets/img/icons/photo.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> Discover our design [with your own eyes](https://descendant.github.io/404).
+### <img src="/assets/img/icons/photo.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> Discover our design [with your own eyes](https://descendant.github.io/media).
 
 ### <img src="/assets/img/icons/downloads.png" style="width: 4%; margin-right:4px; margin-bottom:5px"> [Download](https://descendant.github.io/downloads) the power of Descendant to your device.
 
