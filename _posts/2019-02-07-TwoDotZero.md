@@ -8,7 +8,7 @@ categories: Descendant
 <hr>
 
 After some time, here it comes. The long awaited Descendant update is ready to be flashed on your phones.
-Enjoy
+Enjoy and have fun!
 
 ===================
 ====-Changelog-====
@@ -31,6 +31,8 @@ Enjoy
 * Add icons almost-everywhere in Settings
 * Lemon shape has been added to System Icons Customization 
 
+<hr>
+
 ### New Features:
 
 * Introducing Focus Mode
@@ -50,29 +52,40 @@ Enjoy
 * Introducing Media cover art on lockscreen
 * Introducing Screenshot tile (partial screenshot and full)
 
+<hr>
+
 ### Misc Enhancements:
 
 * Fixed an OP Gestures problem that was preventing gesture usage when on Dialer/crashing apps
 * Improved algorithm for Descendant's UI Customization options
+
+<hr>
 
 ### Launcher:
 
 * Introducing native support for 3rd party iconpacks (this extends to Quickstep as well) 
 * Introducing swipe down gestures available in Launcher settings 
 
+<hr>
+
 ### Sounds:
 
 * Introducing Descendant Ringtones, Alarms and Notification sounds
 
+<hr>
+
 ### Dialer:
 
 * Keypads numbers will now follow system accent 
+
+<hr>
 
 ### Prebuilts:
 
 * Added Kiwi Browser
 * Added Simple Calculator
 
+<hr>
 
 ### Hadrware support updates
 
@@ -80,3 +93,5 @@ Enjoy
 * Fixed NFC for PRA; 
 * Fixed an error that was preventing RIL to work on some Samsung devices;
 * Fixed Daisy camera on DND error
+
+<hr>
