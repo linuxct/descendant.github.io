@@ -7,7 +7,7 @@ categories: Descendant
 
 <hr>
 
-After some time, here it comes. The long awaited Descendant update is ready to be flashed on your phones.
+After some time, here it comes. The long awaited Descendant update is ready to be flashed on your phone.
 Enjoy and have fun!
 
 Here is the full changelog of the new release:
