@@ -19,20 +19,25 @@ navigation: true
 
 <br>
 
----
-
-<h2>Settings screen</h2>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/about.png" style="width: 100%"></a>About phone</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/settings.png" style="width: 100%"></a>Settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/settings2.png" style="width: 100%"></a>Settings</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/about.png" style="width: 100%"></a>About phone</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/display.png" style="width: 100%"></a>Display settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/exvolume.png" style="width: 100%"></a>Volume settings</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/sound2.png" style="width: 100%"></a>Sound settings</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/battery.png" style="width: 100%"></a>Battery settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/baticon.png" style="width: 100%"></a>Battery icon settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/light.png" style="width: 100%"></a>Battery light settings</p></center>
 
+<br>
+
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/battery.png" style="width: 100%"></a>Battery settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/baticon.png" style="width: 100%"></a>Battery icon settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/light.png" style="width: 100%"></a>Battery light settings</p></center>
 
