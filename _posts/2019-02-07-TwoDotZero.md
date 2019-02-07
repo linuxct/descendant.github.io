@@ -90,8 +90,8 @@ Here is the full changelog of the new release:
 ### Hadrware support updates
 
 * Synced to latest phh sources plus the following addition:
-* Fixed NFC for PRA; 
-* Fixed an error that was preventing RIL to work on some Samsung devices;
-* Fixed Daisy camera on DND error
+  Fixed NFC for PRA; 
+  Fixed an error that was preventing RIL to work on some Samsung devices;
+  Fixed Daisy camera on DND error
 
 <hr>
