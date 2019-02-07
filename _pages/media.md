@@ -18,6 +18,7 @@ navigation: true
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/quicksettings.png" style="width: 100%"></a>Quick settings</p></center>
 
 <br>
+<hr>
 
 <h2>Settings screen</h2>
 
