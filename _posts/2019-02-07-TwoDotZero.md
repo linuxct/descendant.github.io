@@ -12,6 +12,8 @@ Enjoy and have fun!
 
 Here is the full changelog of the new release:
 
+<hr>
+
 #### UI changes:
 
 * Introducing Descendant Brightness Bar 
