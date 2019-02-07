@@ -10,6 +10,45 @@ navigation: true
 
 <hr>
 
+### __Descendant TwoDotZero__
+
+<br>
+
+__GSI ARM64 A only__
+
+&emsp; <a href="http://bit.ly/TwoDotZero_arm64_Aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+
+<br>
+
+__GSI ARM64 AB__
+
+&emsp; <a href="http://bit.ly/TwoDotZero_arm64_AB" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+
+<br>
+
+__GSI ARM A only__
+
+&emsp; <a href="http://bit.ly/TwoDotZero_arm_aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+
+<br>
+
+__Mediafire Mirror__
+
+&emsp; <a href="http://bit.ly/descendantmirror" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+
+<br>
+
+You can read TwoDotZero changelog <a href="https://descendant.github.io/blog/TwoDotZero" target="_blank">here</a>.
+
+---
+
+<details><summary>
+   <p style="
+       display: inline;
+             ">Older downloads</p>
+   </summary>
+<hr>
+   
 ### __Descendant OneDotFive__
 
 <br>
@@ -40,14 +79,7 @@ __Mediafire Mirror__
 
 You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
 
----
-
-<details><summary>
-   <p style="
-       display: inline;
-             ">Older downloads</p>
-   </summary>
-<hr>
+---   
 
 ### __Descendant OneDotFour__
 
