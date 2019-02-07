@@ -13,17 +13,17 @@ navigation: true
 
 <br>
 
-<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.ibb.co/jwS5Nn2/screener-1548462419599.png" style="width: 100%"></a>Battery settings</p></center>
-<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.ibb.co/jwS5Nn2/screener-1548462419599.png" style="width: 100%"></a>Battery settings</p></center>
-<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.ibb.co/jwS5Nn2/screener-1548462419599.png" style="width: 100%"></a>Battery settings</p></center>
+<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/homescreen.png" style="width: 100%"></a>Homescreen</p></center>
+<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/qs.png" style="width: 100%"></a>Notifications</p></center>
+<center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/quicksettings.png" style="width: 100%"></a>Quick settings</p></center>
 
-<br>
+<hr>
 
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
 
-<br>
+<hr>
 
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="https://i.imgur.com/XL2TRf3.jpg" style="width: 100%"></a>Battery settings</p></center>
