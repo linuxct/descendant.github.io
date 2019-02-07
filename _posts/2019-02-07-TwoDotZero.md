@@ -31,7 +31,7 @@ Here is the full changelog of the new release:
 * Add icons almost-everywhere in Settings
 * Lemon shape has been added to System Icons Customization 
 
-<hr>
+<br>
 
 ### New Features:
 
@@ -52,40 +52,40 @@ Here is the full changelog of the new release:
 * Introducing Media cover art on lockscreen
 * Introducing Screenshot tile (partial screenshot and full)
 
-<hr>
+<br>
 
 ### Misc Enhancements:
 
 * Fixed an OP Gestures problem that was preventing gesture usage when on Dialer/crashing apps
 * Improved algorithm for Descendant's UI Customization options
 
-<hr>
+<br>
 
 ### Launcher:
 
 * Introducing native support for 3rd party iconpacks (this extends to Quickstep as well) 
 * Introducing swipe down gestures available in Launcher settings 
 
-<hr>
+<br>
 
 ### Sounds:
 
 * Introducing Descendant Ringtones, Alarms and Notification sounds
 
-<hr>
+<br>
 
 ### Dialer:
 
 * Keypads numbers will now follow system accent 
 
-<hr>
+<br>
 
 ### Prebuilts:
 
 * Added Kiwi Browser
 * Added Simple Calculator
 
-<hr>
+<br>
 
 ### Hadrware support updates
 
