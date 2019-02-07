@@ -43,8 +43,8 @@ navigation: true
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/gestures.png" style="width: 100%"></a>Gestures & buttons</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/gestures2.png" style="width: 100%"></a>Gestures</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/gestures.png" style="width: 100%"></a>Gestures</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/gestures2.png" style="width: 100%"></a>Gestures #2</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/swipeup.png" style="width: 100%"></a>Swipe up settings</p></center>
 
 <br>
