@@ -10,11 +10,9 @@ categories: Descendant
 After some time, here it comes. The long awaited Descendant update is ready to be flashed on your phones.
 Enjoy and have fun!
 
-===================
-====-Changelog-====
-===================
+Here is the full changelog of the new release:
 
-### UI changes:
+#### UI changes:
 
 * Introducing Descendant Brightness Bar 
 * Introducing Descendant Battery Fragment
@@ -33,7 +31,7 @@ Enjoy and have fun!
 
 <hr>
 
-### New Features:
+#### New Features:
 
 * Introducing Focus Mode
 * Introducing Screenrecord QS tile
@@ -54,40 +52,40 @@ Enjoy and have fun!
 
 <hr>
 
-### Misc Enhancements:
+#### Misc Enhancements:
 
 * Fixed an OP Gestures problem that was preventing gesture usage when on Dialer/crashing apps
 * Improved algorithm for Descendant's UI Customization options
 
 <hr>
 
-### Launcher:
+#### Launcher:
 
 * Introducing native support for 3rd party iconpacks (this extends to Quickstep as well) 
 * Introducing swipe down gestures available in Launcher settings 
 
 <hr>
 
-### Sounds:
+#### Sounds:
 
 * Introducing Descendant Ringtones, Alarms and Notification sounds
 
 <hr>
 
-### Dialer:
+#### Dialer:
 
 * Keypads numbers will now follow system accent 
 
 <hr>
 
-### Prebuilts:
+#### Prebuilts:
 
 * Added Kiwi Browser
 * Added Simple Calculator
 
 <hr>
 
-### Hadrware support updates
+#### Hadrware support updates
 
 * Synced to latest phh sources plus the following addition:
 * Fixed NFC for PRA; 
