@@ -87,7 +87,7 @@ Here is the full changelog of the new release:
 
 <br>
 
-### Hadrware support updates
+### Hardware support updates
 
 * Synced to latest phh sources plus the following addition: <br>
   Fixed NFC for PRA; <br>
