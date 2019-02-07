@@ -51,33 +51,17 @@ You can read TwoDotZero changelog <a href="https://descendant.github.io/blog/Two
    
 ### __Descendant OneDotFive__
 
-<br>
-
 __GSI ARM64 A only__
 
-&emsp; <a href="https://bit.ly/onedotfiveaonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
-
-<br>
+* [Download here](https://bit.ly/onedotfiveaonly)
 
 __GSI ARM64 AB__
 
-&emsp; <a href="https://bit.ly/onedotfiveab" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
-
-<br>
+* [Download here](https://bit.ly/onedotfiveab)
 
 __GSI ARM A only__
 
-&emsp; <a href="https://bit.ly/onedotfivearm" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
-
-<br>
-
-__Mediafire Mirror__
-
-&emsp; <a href="http://bit.ly/descendantmirror" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
-
-<br>
-
-You can read OneDotFive changelog <a href="https://descendant.github.io/blog/OneDotFive" target="_blank">here</a>.
+* [Download here](https://bit.ly/onedotfivearm)
 
 ---   
 
