@@ -51,13 +51,19 @@ navigation: true
 
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/security.png" style="width: 100%"></a>Security</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/accesibillity.png" style="width: 100%"></a>Accessibility</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/accesibillity2.png" style="width: 100%"></a>Accessibility</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/accesibillity2.png" style="width: 100%"></a>Accessibility #2</p></center>
 
 <br>
 
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/sound.png" style="width: 100%"></a>Sound</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/sound2.png" style="width: 100%"></a>Sound</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/exvolume.png" style="width: 100%"></a>Volume panel</p></center>
+
+<br>
+
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/notifsound.png" style="width: 100%"></a>Notification sounds</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/ringtone.png" style="width: 100%"></a>Ringtone sounds</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/volume.png" style="width: 100%"></a>Volume panel</p>
 
 <br>
 
@@ -70,10 +76,5 @@ navigation: true
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/date.png" style="width: 100%"></a>Date and time</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/utility.png" style="width: 100%"></a>Utility</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/statusbarg.png" style="width: 100%"></a>Statusbar gestures</p>
-  
-<br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/notifsound.png" style="width: 100%"></a>Notification sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/ringtone.png" style="width: 100%"></a>Ringtone sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><a href="https://i.imgur.com/Us2A1wl.jpg" target="_blank"><img src="/assets/screenshots/volume.png" style="width: 100%"></a>Volume panel</p>
 
