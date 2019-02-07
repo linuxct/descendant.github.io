@@ -19,7 +19,7 @@ navigation: true
 
 <br>
 
-<hr>
+---
 
 <h2>Settings screen</h2>
 
