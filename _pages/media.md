@@ -19,62 +19,62 @@ navigation: true
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/about.png" style="width: 100%">About phone</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/settings.png" style="width: 100%">Settings</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/settings2.png" style="width: 100%">Settings #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ZAvAyKa.png" style="width: 100%">About phone</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Tl6l07G.png" style="width: 100%">Settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/lrLIz8q.png" style="width: 100%">Settings #2</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/display.png" style="width: 100%">Display</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/icons.png" style="width: 100%">Icon customiz.</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/ui.png" style="width: 100%">UI customization</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/76zk7yI.png" style="width: 100%">Display</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/SpaeLJw.png" style="width: 100%">Icon customiz.</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/VhY2SSx.png" style="width: 100%">UI customization</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/qsedit.png" style="width: 100%">QS editor</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/qsslider.png" style="width: 100%">QS slider</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/qsempty.png" style="width: 100%">QS slider #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/pz4hfSD.png" style="width: 100%">QS editor</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/tyPDUY1.png" style="width: 100%">QS slider</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/vh5Pfrz.png" style="width: 100%">QS slider #2</p></center>
 
 <br>
 
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/battery.png" style="width: 100%">Battery</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/baticon.png" style="width: 100%">Battery icon style</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/light.png" style="width: 100%">Battery light settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Vujy8nY.png" style="width: 100%">Battery icon style</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/C1QEJBI.png" style="width: 100%">Battery light settings</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/gestures.png" style="width: 100%">Gestures</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/gestures2.png" style="width: 100%">Gestures #2</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/swipeup.png" style="width: 100%">Swipe up settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/KgrooUP.png" style="width: 100%">Gestures</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/W3brRLO.png" style="width: 100%">Gestures #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/nuxyZnE.png" style="width: 100%">Swipe up settings</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/security.png" style="width: 100%">Security</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/accesibillity.png" style="width: 100%">Accessibility</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/accesibillity2.png" style="width: 100%">Accessibility #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Vo3fGBf.png" style="width: 100%">Security</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/WEm5k5q.png" style="width: 100%">Accessibility</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/qmZR19V.png" style="width: 100%">Accessibility #2</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/sound.png" style="width: 100%">Sound</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/sound2.png" style="width: 100%">Sound</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/exvolume.png" style="width: 100%">Ex. volume panel</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/jSRDwAt.png" style="width: 100%">Sound</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/FrfPidF.png" style="width: 100%">Sound</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/JDwXkIW.png" style="width: 100%">Ex. volume panel</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/notifsound.png" style="width: 100%">Notif. sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/ringtone.png" style="width: 100%">Ringtone sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/volume.png" style="width: 100%">Volume panel</p>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Q7EpkKe.png" style="width: 100%">Notif. sounds</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/uKgCy0t.png" style="width: 100%">Ringtone sounds</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ikOaw5M.png" style="width: 100%">Volume panel</p>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/lockscreen.png" style="width: 100%">Lockscreen</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/notifications.png" style="width: 100%">Notifications</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/location.png" style="width: 100%">Location</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/h2Cw8CZ.png" style="width: 100%">Lockscreen</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/b8KjaNy.png" style="width: 100%">Notifications</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/wufgP3D.png" style="width: 100%">Location</p></center>
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/date.png" style="width: 100%">Date and time</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/utility.png" style="width: 100%">Utility</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/statusbarg.png" style="width: 100%">Statusbar gestures</p>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/3umL5Vh.png" style="width: 100%">Date and time</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/lxCfdR6.png" style="width: 100%">Utility</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/FrfPidF.png" style="width: 100%">Statusbar gestures</p>
 
 
