@@ -76,5 +76,7 @@ navigation: true
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/3umL5Vh.png" style="width: 100%">Date and time</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/lxCfdR6.png" style="width: 100%">Utility</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/FrfPidF.png" style="width: 100%">Statusbar gestures</p>
+  
+<hr>  
 
 
