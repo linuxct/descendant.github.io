@@ -1,3 +1,11 @@
+---
+layout: default
+title: Test
+permalink: /test/
+avatar: true
+navigation: true
+---
+
 <head>
 <script src="https://scripts.sirv.com/sirv.js"></script>
 <div class="Sirv" data-effect="zoom" >
