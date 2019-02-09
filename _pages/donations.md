@@ -14,7 +14,6 @@ navigation: true
 <hr>
 
 <script src="https://scripts.sirv.com/sirv.js"></script>
-<div class="Sirv" data-effect="zoom"><img data-src="https://sirv.sirv.com/website/demos/tesla-model-x-1.jpg" />
-  <img data-src="https://sirv.sirv.com/website/demos/tesla-model-x-2.jpg" />
-  <img data-src="https://sirv.sirv.com/website/demos/tesla-model-x-3.jpg" />
+<div class="Sirv" data-effect="zoom" >
+    <img data-src="https://quallive.sirv.com/Images/photo_2019-02-07_16-00-21.jpg" />
 </div>
