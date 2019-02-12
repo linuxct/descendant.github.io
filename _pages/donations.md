@@ -2,7 +2,7 @@
 layout: default
 title: Donations
 permalink: /donations/
-avatar: true
+avatar: false
 navigation: true
 ---
 <h2 align="center">Donations</h2>
