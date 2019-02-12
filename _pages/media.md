@@ -5,7 +5,7 @@ permalink: /media/
 avatar: false
 navigation: true
 ---
-<h2 align="center">Descendant Screenshots</h2>
+<h1 align="center">Descendant Screenshots</h1>
 
 <hr>
 
