@@ -6,7 +6,7 @@ avatar: false
 navigation: true
 ---
 
-<strong><h1 align="center">Downloads</h1></strong>
+<h1 align="center">Downloads</h1>
 
 <hr>
 
