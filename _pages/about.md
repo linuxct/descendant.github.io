@@ -5,7 +5,7 @@ permalink: /about/
 avatar: false
 navigation: true
 ---
-<h2 align="center">About Descendant</h2>
+<h1 align="center">About Descendant</h1>
 
 <hr>
 
