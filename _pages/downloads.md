@@ -2,7 +2,7 @@
 layout: default
 title: Downloads
 permalink: /downloads/
-avatar: true
+avatar: false
 navigation: true
 ---
 
