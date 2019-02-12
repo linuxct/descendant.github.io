@@ -2,7 +2,7 @@
 layout: default
 title: External contrib.
 permalink: /extcontrib/
-avatar: true
+avatar: false
 navigation: true
 ---
 <h2 align="center">Descendant's recognized external contributors</h2>
