@@ -2,7 +2,7 @@
 layout: post
 title: About
 permalink: /about/
-avatar: true
+avatar: false
 navigation: true
 ---
 <h2 align="center">About Descendant</h2>
