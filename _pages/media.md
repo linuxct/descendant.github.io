@@ -2,7 +2,7 @@
 layout: default
 title: Media
 permalink: /media/
-avatar: true
+avatar: false
 navigation: true
 ---
 <h2 align="center">Descendant Screenshots</h2>
