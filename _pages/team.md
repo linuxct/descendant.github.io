@@ -5,7 +5,7 @@ permalink: /extcontrib/
 avatar: false
 navigation: true
 ---
-<h1 align="center">Descendant's recognized external contributors</h1>
+<h2 align="center">Descendant's recognized external contributors</h2>
 
 <hr>
 
