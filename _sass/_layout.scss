@@ -32,7 +32,7 @@
 .site-nav {
   float: right;
   position: absolute;
-  top: 18px;
+  top: 26px;
   right: $spacing-unit / 2;
   border: 0px solid $grey-color-light;
   border-radius: 1px;
@@ -45,7 +45,6 @@
     background: none;
     border: 0;
     outline: 0;
-    padding: 17.5px 0px;
 
     > svg {
       width: 18px;
