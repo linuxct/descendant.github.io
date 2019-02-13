@@ -11,7 +11,7 @@
       tabindex="0"></amp-img>
       {% for page in site.pages %}
         {% if page.title and page.navigation %}
-        <img src="/assets/img/icons/downloads.png" style="width: 4%; margin-right:4px; margin-bottom:5px"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <img src="/assets/img/icons/downloads.png"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
       {% endfor %}
       <a class="page-link" href="{{ site.baseurl | append: '/blog/'}}">Blog</a>
