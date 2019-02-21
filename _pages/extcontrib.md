@@ -34,7 +34,7 @@ navigation: true
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Yunus İşleyen<br>
 <img src="/assets/img/icons/brush.png" style="width: 3%; padding-bottom:3px"> &thinsp; Graphical contributor<br></p>
 
-<p style="padding-bottom:10px;"><img src="https://i.ibb.co/hMPhbHD/peak.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
+<p style="padding-bottom:10px;"><img src="https://i.ibb.co/Bt1kgnz/peak.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/peaktogoo" target="_blank">peaktogoo</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Krittin Chuaiphikroh  <br>
 <img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Domain contributor<br></p>
