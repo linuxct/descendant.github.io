@@ -1,10 +1,10 @@
 # Site settings
 title: Descendant
-email: descendant@gmail.com
+email: dil3mm4@descendant.me
 description: > # this means to ignore newlines until "baseurl:"
   Get to know your descendance
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "https://descendant.github.io" # the base hostname & protocol for your site
+url: "https://descendant.me" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  descendant
 GoogleAnalytics: UA-xxxxxx-x
