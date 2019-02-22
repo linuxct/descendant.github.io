@@ -32,12 +32,6 @@ __GSI ARM A only__
 
 <br>
 
-__Mediafire Mirror__
-
-&emsp; <a href="http://bit.ly/descendantmirror" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
-
-<br>
-
 You can read TwoDotZero changelog <a href="https://descendant.github.io/blog/TwoDotZero" target="_blank">here</a>.
 
 ---
@@ -62,6 +56,10 @@ __GSI ARM64 AB__
 __GSI ARM A only__
 
 * [Download here](https://bit.ly/onedotfivearm)
+
+__Mediafire Mirror__
+
+* [Download here](http://bit.ly/descendantmirror)
 
 ---   
 
