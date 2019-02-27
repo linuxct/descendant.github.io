@@ -3,7 +3,7 @@ layout: default
 title: Test
 permalink: /test/
 avatar: true
-navigation: true
+navigation: false
 ---
 
 <center><head>
