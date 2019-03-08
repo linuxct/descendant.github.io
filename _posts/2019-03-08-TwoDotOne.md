@@ -37,7 +37,6 @@ No more talking, changelog.
 * Crash saver
   When an app will continuosly crash, user will have "Disable app" as an option in the dialog
 
-
 <br>
 
 ### Misc changes:
@@ -48,7 +47,7 @@ No more talking, changelog.
   Do you need support?: tapping on it will redirect the user to Descendant's support Telegram Group
 * Ambient ticker has been moved into Audio settings
 
-
+<br>
 
 ### Hardware side changes
 
