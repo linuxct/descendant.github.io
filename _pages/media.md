@@ -15,7 +15,7 @@ navigation: true
 
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/WWHYKXD.png" style="width: 100%">Homescreen</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/DBFa4Z6.png" style="width: 100%">Notifications</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/O3CMwLh.png" style="width: 100%">Quick settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/oxkgYwv.png" style="width: 100%">Quick settings</p></center>
 
 <br>
 
