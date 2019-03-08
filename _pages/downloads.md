@@ -10,29 +10,29 @@ navigation: true
 
 <hr>
 
-### __Descendant TwoDotZero__
+### __Descendant TwoDotOne__
 
 <br>
 
 __GSI ARM64 A only__
 
-&emsp; <a href="http://bit.ly/TwoDotZero_arm64_Aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2EVhQjo" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="http://bit.ly/TwoDotZero_arm64_AB" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2IYNtwE" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="http://bit.ly/TwoDotZero_arm_aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2XJgzDv" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
-You can read TwoDotZero changelog <a href="https://descendant.github.io/blog/TwoDotZero" target="_blank">here</a>.
+You can read TwoDotOne changelog <a href="https://descendant.github.io/blog/TwoDotOne" target="_blank">here</a>.
 
 ---
 
@@ -42,6 +42,22 @@ You can read TwoDotZero changelog <a href="https://descendant.github.io/blog/Two
              ">Older downloads</p>
    </summary>
 <hr>
+   
+### __Descendant TwoDotZero__   
+
+__GSI ARM64 A only__
+
+* [Download here](http://bit.ly/TwoDotZero_arm64_Aonly)
+
+__GSI ARM64 AB__
+
+* [Download here](http://bit.ly/TwoDotZero_arm64_AB)
+
+__GSI ARM A only__
+
+* [Download here](http://bit.ly/TwoDotZero_arm_aonly)
+
+---
    
 ### __Descendant OneDotFive__
 
