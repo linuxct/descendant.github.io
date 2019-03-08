@@ -13,7 +13,7 @@ navigation: true
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/YlSbxAk.png" style="width: 100%">Homescreen</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/WWHYKXD.png" style="width: 100%">Homescreen</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/DBFa4Z6.png" style="width: 100%">Notifications</p></center>
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/O3CMwLh.png" style="width: 100%">Quick settings</p></center>
 
@@ -31,9 +31,16 @@ navigation: true
 
 <br>
 
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/yOsYndJ.png" style="width: 100%">One-hand UI</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/qzjv2TH.png" style="width: 100%">One-hand UI #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/20N2jG0.png" style="width: 100%">One-hand UI #3</p></center>
+
+
+<br>
+
 <center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/pz4hfSD.png" style="width: 100%">QS editor</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/tyPDUY1.png" style="width: 100%">QS slider</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/vh5Pfrz.png" style="width: 100%">QS slider #2</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ecbVn5d.png" style="width: 100%">QS slider</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/2fm5Xpn.png" style="width: 100%">Power menu</p></center>
 
 <br>
 
