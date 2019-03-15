@@ -47,7 +47,7 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/C1PXTg3/photo-2019-01-17-11-47-30.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Thespartann" target="_blank">Thespartann</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Stefan Flavian Danila  <br>
-<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Rom device specific bring up contributor<br></p>
+<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Rom device specific bring up contributor<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/sRSs1dd/jertlok.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Jertlok" target="_blank">krux3r</a><br>
