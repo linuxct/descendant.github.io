@@ -44,13 +44,13 @@ navigation: true
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Ivan Krušlin  <br>
 <img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; Website editor and graphical contributor<br></p>
 
-<p style="padding-bottom:10px;"><img src="https://i.ibb.co/C1PXTg3/photo-2019-01-17-11-47-30.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
+<p style="padding-bottom:10px;"><img src="https://i.ibb.co/HgCZ8Bd/spartan.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Thespartann" target="_blank">Thespartann</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Stefan Flavian Danila  <br>
-<img src="/assets/img/icons/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Rom device specific bring up contributor<br></p>
+<img src="/assets/img/icons/memory.png" style="width: 3%; padding-bottom:3px"> &thinsp; Rom device specific bring up contributor<br></p>
 
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/sRSs1dd/jertlok.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
-<img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Jertlok" target="_blank">krux3r</a><br>
+<img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Jertlok" target="_blank">Jertlok</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Giuseppe Maggio  <br>
 <img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; All around contributor<br></p>
 
