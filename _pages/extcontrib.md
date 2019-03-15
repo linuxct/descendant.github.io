@@ -52,6 +52,6 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/sRSs1dd/jertlok.jpg" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/github.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://github.com/Jertlok" target="_blank">Jertlok</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Giuseppe Maggio  <br>
-<img src="/assets/img/icons/web.png" style="width: 3%; padding-bottom:3px"> &thinsp; All around contributor<br></p>
+<img src="/assets/img/icons/account-switch.png" style="width: 3%; padding-bottom:3px"> &thinsp; All around contributor<br></p>
 
 <hr>
