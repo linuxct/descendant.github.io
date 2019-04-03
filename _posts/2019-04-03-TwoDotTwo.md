@@ -19,6 +19,8 @@ Here it comes, a new update for your favorite custom rom! Enjoy.
 * Fixed a doubled bar in some Settings fragments like app permissions and wifi
 * QS Tile is now available 
 
+<br>
+
 ### Misc Enhancements:
 
 * Corrected roundiness behaviour for Settings Searchbar
