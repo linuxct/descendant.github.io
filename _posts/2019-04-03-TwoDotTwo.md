@@ -36,3 +36,5 @@ Here it comes, a new update for your favorite custom rom! Enjoy.
 * OTA in About Phone
 * Uptime has been reinherited in Settings
 * Removed Xiaomi capped 12mpx camera, bumped it up to 12.6mpx
+
+<hr>
