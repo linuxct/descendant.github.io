@@ -11,10 +11,7 @@ Here it comes, a new update for your favorite custom rom! Enjoy.
 
 <hr>
 
-### Changelog:
-<br>
-
-#### ThumbUI Enhancements:
+### ThumbUI Enhancements:
 
 * Google Dialer;
 * Google Messages;
@@ -22,7 +19,7 @@ Here it comes, a new update for your favorite custom rom! Enjoy.
 * Fixed a doubled bar in some Settings fragments like app permissions and wifi
 * QS Tile is now available 
 
-#### Misc Enhancements:
+### Misc Enhancements:
 
 * Corrected roundiness behaviour for Settings Searchbar
 * Added more drawables in Settings
