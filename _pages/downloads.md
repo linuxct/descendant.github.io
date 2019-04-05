@@ -10,29 +10,29 @@ navigation: true
 
 <hr>
 
-### __Descendant TwoDotOne__
+### __Descendant TwoDotTwo__
 
 <br>
 
 __GSI ARM64 A only__
 
-&emsp; <a href="http://bit.ly/2EVhQjo" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2UslXMh" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="http://bit.ly/2IYNtwE" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2Iaqf4I" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="http://bit.ly/2XJgzDv" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2WGkeAx" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
-You can read TwoDotOne changelog <a href="https://descendant.github.io/blog/TwoDotOne" target="_blank">here</a>.
+You can read TwoDotTwo changelog <a href="https://descendant.github.io/blog/TwoDotTwo" target="_blank">here</a>.
 
 ---
 
@@ -43,6 +43,22 @@ You can read TwoDotOne changelog <a href="https://descendant.github.io/blog/TwoD
    </summary>
 <hr>
    
+### __Descendant TwoDotOne__
+
+__GSI ARM64 A only__
+
+* [Download here](http://bit.ly/2EVhQjo)
+
+__GSI ARM64 AB__
+
+* [Download here](http://bit.ly/2IYNtwE)
+
+__GSI ARM A only__
+
+* [Download here](http://bit.ly/2XJgzDv)
+
+---
+
 ### __Descendant TwoDotZero__   
 
 __GSI ARM64 A only__
