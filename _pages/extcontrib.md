@@ -57,6 +57,6 @@ navigation: true
 <p style="padding-bottom:10px;"><img src="https://i.ibb.co/Y0Kd44p/RT-19.png" style="border-radius: 50%; margin-right:14px; width:78px; height:78px;" align="left"/> 
 <img src="/assets/img/icons/xda.png" style="width: 3%; padding-bottom:3px"> &thinsp; <a href="https://forum.xda-developers.com/member.php?u=5545371" target="_blank">Roger T.</a><br>
 <img src="/assets/img/icons/person.png" style="width: 3%; padding-bottom:3px"> &thinsp; Roger Truttmann  <br>
-<img src="/assets/img/icons/account-switch.png" style="width: 3%; padding-bottom:3px"> &thinsp; Graphical Contributor<br></p>
+<img src="/assets/img/icons/brush.png" style="width: 3%; padding-bottom:3px"> &thinsp; Graphical Contributor<br></p>
 
 <hr>
