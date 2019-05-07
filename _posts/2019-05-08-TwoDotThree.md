@@ -7,7 +7,7 @@ categories: Descendant
 
 <hr>
 
-### CHANGELOG
+### CHANGELOG -
 
 <br>
 
