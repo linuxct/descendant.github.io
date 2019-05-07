@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Descendant TwoDotThree has descended!"
-date:   2019-04-03 01:36:00 +0100
+date:   2019-05-08 00:19:00 +0100
 categories: Descendant
 ---
 
@@ -11,7 +11,7 @@ Descendant TwoDotThree is here, enjoy.
 
 <hr>
 
-### CHANGELOG
+#### CHANGELOG
 
 <br>
 
