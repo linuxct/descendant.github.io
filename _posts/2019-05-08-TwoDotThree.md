@@ -9,10 +9,6 @@ categories: Descendant
 
 ### CHANGELOG
 
-<hr>
-
-
-
 <br>
 
 * Oreo theme available in Settings -> Display -> System Icons Customization
