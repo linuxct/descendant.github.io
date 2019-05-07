@@ -7,7 +7,7 @@ categories: Descendant
 
 <hr>
 
-### CHANGELOG -
+### CHANGELOG
 
 <br>
 
@@ -31,5 +31,7 @@ On a side note, I'd like to send out a shout to <a href="https://forum.xda-devel
 Oh, and, another thing. 
 I'll probably not merge any other major change/feature to Descendant except security patches and a bit of fine tuning on what's available already. 
 Descendant has already a lot of features inherited and I'm more than satisfied with them.
+
+Without further ado, head over to the <a href="https://descendant.me/downloads/">Downloads</a> page!
 
 <hr>
