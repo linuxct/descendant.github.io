@@ -16,7 +16,7 @@ navigation: true
 
 __GSI ARM64 A only__
 
-&emsp; <a href="http://bit.ly/2dot3arm64a" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="http://bit.ly/2dot3arm64aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
