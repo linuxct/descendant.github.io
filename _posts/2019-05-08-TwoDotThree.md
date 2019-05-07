@@ -7,11 +7,11 @@ categories: Descendant
 
 <hr>
 
-Descendant TwoDotThree is here, enjoy.
+### CHANGELOG
 
 <hr>
 
-#### CHANGELOG
+
 
 <br>
 
