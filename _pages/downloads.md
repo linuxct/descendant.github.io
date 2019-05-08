@@ -16,19 +16,19 @@ navigation: true
 
 __GSI ARM64 A only__
 
-&emsp; <a href="http://bit.ly/2dot3arm64aonly" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_aonly_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="http://bit.ly/2dot3arm64ab" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_ab_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="http://bit.ly/2dot3arma" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm_a_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
