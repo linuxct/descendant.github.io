@@ -64,11 +64,11 @@ Performance and bug .... ooof. No.
   
 Here are some screenshots of the update:
 
-<img src="https://i.imgur.com/iCy9r2B.png" style="width: 60%">
-<img src="https://i.imgur.com/jy9A2Fz.png" style="width: 60%">
-<img src="https://i.imgur.com/iROBolS.png" style="width: 60%">
-<img src="https://i.imgur.com/0jAiuO4.png" style="width: 60%">
-<img src="https://i.imgur.com/Bedlcsr.png" style="width: 60%">
+<img src="https://i.imgur.com/iCy9r2B.png" style="width: 30%">
+<img src="https://i.imgur.com/jy9A2Fz.png" style="width: 30%">
+<img src="https://i.imgur.com/iROBolS.png" style="width: 30%">
+<img src="https://i.imgur.com/0jAiuO4.png" style="width: 30%">
+<img src="https://i.imgur.com/Bedlcsr.png" style="width: 30%">
 
 <hr>
 
