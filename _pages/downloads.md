@@ -16,19 +16,19 @@ navigation: true
 
 __GSI ARM64 A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_aonly_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_ab_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_ab.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm_a_new.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm_a.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
@@ -42,6 +42,22 @@ You can read TwoDotThree changelog <a href="https://descendant.me/blog/TwoDotThr
              ">Older downloads</p>
    </summary>
 <hr>
+   
+### __Descendant TwoDotThree__
+
+__GSI ARM64 A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_aonly_new.zip)
+
+__GSI ARM64 AB__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm64_ab_new.zip)
+
+__GSI ARM A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/TwoDotThree/Descendant_TwoDotThree_arm_a_new.zip)   
+
+---
    
 ### __Descendant TwoDotTwo__
 
