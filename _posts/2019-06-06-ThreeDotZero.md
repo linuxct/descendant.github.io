@@ -13,6 +13,8 @@ Performance and bug .... ooof. No.
 
 ### Introducing Descendant's new UI:
 
+<br>
+
 * Quick Status Bar Header has been redesigned; 
 
 * QS Panel has been redesigned and now includes Descendant's QuickView. 
@@ -45,6 +47,8 @@ Performance and bug .... ooof. No.
 * Black theme it's now bi-tonal.
 
 ### Features:
+
+<br>
 
 * Don't touch my heads-up
   Available in Settings -> Apps and notifications -> Notifications 
