@@ -10,7 +10,7 @@ navigation: true
 
 <hr>
 
-### __Descendant TwoDotThree__
+### __Descendant ThreeDotZero__
 
 <br>
 
@@ -32,7 +32,7 @@ __GSI ARM A only__
 
 <br>
 
-You can read TwoDotThree changelog <a href="https://descendant.me/blog/TwoDotThree" target="_blank">here</a>.
+You can read ThreeDotZero changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.
 
 ---
 
