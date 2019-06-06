@@ -7,10 +7,6 @@ categories: Descendant
 
 <hr>
 
-### CHANGELOG
-
-<hr>
-
 Performance and bug .... ooof. No.
 
 <hr>
