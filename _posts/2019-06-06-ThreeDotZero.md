@@ -70,7 +70,9 @@ Here are some screenshots of the update:
 <img src="https://i.ibb.co/Y3F6RT5/Screenshot-20190606-132032-Settings.png" style="width: 30%" hspace="4" vspace="4">
 <img src="https://i.ibb.co/mFjd2Nd/Screenshot-20190606-132041-Lawnchair.png" style="width: 30%" hspace="4" vspace="4">
 <center><img src="https://i.ibb.co/BKYMqg6/Screenshot-20190606-132052-Lawnchair.png" style="width: 30%" hspace="4" vspace="2">
-<img src="https://i.ibb.co/7K7gVBh/Screenshot-20190606-132150.png" style="width: 30%" hspace="4" vspace="2"></center>
+<img src="https://i.ibb.co/7K7gVBh/Screenshot-20190606-132150.png" style="width: 30%" hspace="4" vspace="2">
+<img src="https://i.ibb.co/zbJsbSS/IMG-20190607-002119.jpg" style="width: 30%" hspace="4" vspace="2"></center>
+
 
 <hr>
 
