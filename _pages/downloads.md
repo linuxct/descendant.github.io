@@ -10,29 +10,29 @@ navigation: true
 
 <hr>
 
-### __Descendant ThreeDotZero__
+### __Descendant ThreeDotOne__
 
 <br>
 
 __GSI ARM64 A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotOne/Descendant_ThreeDotOne_arm64_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_ab.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotOne/Descendant_ThreeDotOne_arm64_ab.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm_a.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/ThreeDotOne/Descendant_ThreeDotOne_arm_a.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
-You can read ThreeDotZero changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.
+<p hidden>You can read ThreeDotOne changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.</p>
 
 ---
 
@@ -42,6 +42,22 @@ You can read ThreeDotZero changelog <a href="https://descendant.me/blog/ThreeDot
              ">Older downloads</p>
    </summary>
 <hr>
+   
+### __Descendant ThreeDotZero__
+
+__GSI ARM64 A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_aonly.zip)
+
+__GSI ARM64 AB__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm64_ab.zip)
+
+__GSI ARM A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/ThreeDotZero/Descendant_ThreeDotZero_arm_a.zip)   
+
+---   
    
 ### __Descendant TwoDotThree__
 
