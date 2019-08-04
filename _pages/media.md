@@ -9,7 +9,7 @@ navigation: true
 
 <hr>
 
-<p>Here you can see some screenshots of Descendant in its full glory!</p>
+<center><p>Here you can see some screenshots of Descendant in its full glory!</p></center>
 
 <br>
 
