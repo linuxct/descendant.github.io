@@ -13,77 +13,11 @@ navigation: true
 
 <br>
 
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/WWHYKXD.png" style="width: 100%">Homescreen</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/DBFa4Z6.png" style="width: 100%">Notifications</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/oxkgYwv.png" style="width: 100%">Quick settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://lh3.googleusercontent.com/4ci5nnaW2F2cZZbUpgRDgzYy2zCWISnKbURKatJsybxUqFXevBRSZZxHavzxx12Wftx5ymfQjqnAlmt2aSxE3Xrja3wbjivQLhZzsIkheSkcqFNTMSh2-wbGmVPY63Igz47BvUpK-2zr0mmKhDolznWsVmO0I_7H6_HrpGAtxuPHKsUqImNWvWbs2SuF2CQhtvcnxrr6teKgxhY1Fr4qL9E_Oa5NofWjMDixebnoSAWuQeKg8FI9e5KjBjm35kit2p4sFS9eoaDYDyiPHiJTWK2_IZ8NKIWWHfYnJK3N556mP6R9guwDJ-sVLM90PY-A61ygEKeCosE5aPoeuW0LisYt2o9dkbEjc0h0_2fZtahCoWZVpqNpzXd2PCi7wUv-AIg_ddOTndiHvAlJJU8aHSFycxZQVJVvd_JacsLfcYBA4md_xnr2yFnsL-_acgZKePeqOVBNVAPLYbY0LyIQbLL25Nun66_BU0iZmZzpdeOBiToJqufQE691EBqFBwL2A9iQo_xkJxnI_lbkJ3TJA-GmO4EtdD9ZdyyF6pDtruv6J_iyGWZHrnHtluHnahQS2fKCpIkLt-D7NHgW9wVWlZfFaPJWs62ftrEYlzaBL2pZsrjHPB_WPbi0H4oNgvqfzXk0Kya1uNDc9ejpKs1d6iDoT_kaRw=w530-h979-no?pageId=105503341602762001668" style="width: 100%">Homescreen</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://lh3.googleusercontent.com/IsP1HwwhskHFb0ZAYeC0PrLkGFEzjlQZmA1C4pcUOvjfHCHb8wpHI1Sd0lWNBP7_BY6QSrbaIHnh_NDc2EPkqUHri1ONICQlMuPm5WDdeu0C6awLJGFALZKfPBdg7jt0EhBbodqgM6QHjr3EgQR-A3_q1zjw2Ehn5Yi5AQII2MgefoAe_mXhRDlsiSn_DfLmYwJGwO6v3NlcpFS8esV3tN8zOpZCwd-eAhA1cS9FqO9PVmx90D2AOXW8YxZVw7uy_p2s2IQNWSB9cmn0vg8pCwgr7hymHSo99tkSbBjRZGJc3O-sv1j3dS1UkVjYgF4ZmDyG_UsC3MLsQOwx7NvEnWTCP3kHZcLOMJcNerB9H40qtNbbhGwHyWSCP0rVLli6BsAhB1mTZQF2Cft8crXtsYPviuCRgsxA6pdb1sdkYqhDG1ihwyUBv3oEaNIW6FII5YIpprNb9NysYC3AAK77lEfFx6gRxnKfxCzc0hZ5dCFrdYJzGqjoOJtOovkUebnfGapVQDhb_W7cfC9uVQf_mwGBxqcQGnHVXJGWLeWKL-nnHOLyx-km36Nf_c2gvwBHb94caavYNXXgnBohvmgdDVwO2t5Jlvd3ZyiwpbQPY3tFsPctkT_EHF939372Bb4ritYdXws8kf9iuVGdPOzLFiFajmymdG4sGDqIYUgbXtsb2veTG5bIhhbnAhO0ifU9LjIW5kgTpcj544qBzBqBdzU=w530-h979-no?pageId=105503341602762001668" style="width: 100%">Quick settings</p></center>
+<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://lh3.googleusercontent.com/D-Ha6jL3XqxaExjjXx8lwWDScaQdVz0YSDhu9ZcmXhp5NGyyFFXMeej6GlqPo2uikwEwh-aAbCJHZCHAadRdidd_2nnWMU8cSAwTk7xO1kR3aLAf47KJ8KcHIM6c4uxirO0wKECd7jvSikp6NBLdy5oMsV7nlDkUFOAMqGRnvw80Cve3FEAnjvn0JhuISPRR5ny1xtT0xLZcdaqvfLOd2pDjedGGfyKgUGTx4ODrymo8KSvN6voaCzO4WaDdEZ36KzqGwuMJ99Yrm2zw1LZ0upPFez5LtgpzdWyK_bxTd1iCVv9V0LcgXIq-CQv5ummOsf8Thk9r5ZZwO5d2gIZwXP-udOtKJu9lGU6DW-fuuXVwopBvjmmBYFmg0HuBBsHNyWPbNoWcPxZhnkFJH2iaEXyYbkV7j1N55HP9WEz5E64lfQ5O-a8ovkoMnZf4D7zz2X9kCfM0qABmUyuyvPKj_Ywt-sjHwVI5_jmEsIUnh173QAS7zaAcQlVlfQLoWcsPqIMPg980WCbHdLhJEOqly8L3DKyQ-SIbiqso-YbJpbvXuC6h7dv7Diz7bbXLPXiQscskcwexiey8AQEU-v8ikW8oEpGkuVKI2IpklponqwLNE-aQvV2qO4YhM66zyOWWIyXHIYv05hqJyC7kvl7l0n6vskJ1zrAy6gCwTAs04BP3rmActCS78OGDn9VIaTFNAZveOvKZxHNBGetIyVFg-UM=w530-h979-no?pageId=105503341602762001668" style="width: 100%">Expanded quick settings</p></center>
 
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ZAvAyKa.png" style="width: 100%">About phone</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Tl6l07G.png" style="width: 100%">Settings</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/lrLIz8q.png" style="width: 100%">Settings #2</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/76zk7yI.png" style="width: 100%">Display</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/SpaeLJw.png" style="width: 100%">Icon customiz.</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/VhY2SSx.png" style="width: 100%">UI customization</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/yOsYndJ.png" style="width: 100%">One-hand UI</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/qzjv2TH.png" style="width: 100%">One-hand UI #2</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/20N2jG0.png" style="width: 100%">One-hand UI #3</p></center>
-
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/pz4hfSD.png" style="width: 100%">QS editor</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ecbVn5d.png" style="width: 100%">QS slider</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/2fm5Xpn.png" style="width: 100%">Power menu</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="/assets/screenshots/battery.png" style="width: 100%">Battery</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Vujy8nY.png" style="width: 100%">Battery icon style</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/C1QEJBI.png" style="width: 100%">Battery light settings</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/KgrooUP.png" style="width: 100%">Gestures</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/W3brRLO.png" style="width: 100%">Gestures #2</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/nuxyZnE.png" style="width: 100%">Swipe up settings</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Vo3fGBf.png" style="width: 100%">Security</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/WEm5k5q.png" style="width: 100%">Accessibility</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/qmZR19V.png" style="width: 100%">Accessibility #2</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/jSRDwAt.png" style="width: 100%">Sound</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Kj1iIyJ.png" style="width: 100%">Sound #2</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/JDwXkIW.png" style="width: 100%">Ex. volume panel</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/Q7EpkKe.png" style="width: 100%">Notif. sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/uKgCy0t.png" style="width: 100%">Ringtone sounds</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/ikOaw5M.png" style="width: 100%">Volume panel</p>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/h2Cw8CZ.png" style="width: 100%">Lockscreen</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/b8KjaNy.png" style="width: 100%">Notifications</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/wufgP3D.png" style="width: 100%">Location</p></center>
-
-<br>
-
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/3umL5Vh.png" style="width: 100%">Date and time</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/lxCfdR6.png" style="width: 100%">Utility</p></center>
-<center><p style="float: left; font-size: 10pt; text-align: center; width: 33%; margin-bottom: 4%;"><img src="https://i.imgur.com/FrfPidF.png" style="width: 100%">Statusbar gestures</p>
-  
+For more screenshots, visit the screenshots <a href="https://photos.app.goo.gl/Jd4M6bKGDZWhLguP6" target="_blank">album</a>.
 <hr>  
 
 
