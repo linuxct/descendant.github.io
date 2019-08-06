@@ -46,8 +46,6 @@ Furthermore we also support non-treble enabled phones with device specific build
 <li><a href="https://forum.xda-developers.com/pixel-3a/development/rom-descendant-3-1-1-pixel-3a-t3948814" rel="nofollow">Google Pixel 3A (sargo)</a></li>
 </ul>
 
-<br>
-
 <p hidden>You can read 4.0.0. changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.</p>
 
 ---
