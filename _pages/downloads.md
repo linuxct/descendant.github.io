@@ -10,7 +10,7 @@ navigation: true
 
 <hr>
 
-### __Descendant ThreeDotOneDotOne__
+### __Descendant 4.0.0.__
 
 <br>
 
@@ -32,7 +32,23 @@ __GSI ARM A only__
 
 <br>
 
-<p hidden>You can read ThreeDotOne changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.</p>
+Furthermore we also support non-treble enabled phones with device specific builds:
+
+<ul>
+<li><a href="https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/spjune-descendant-threedotzero-t3939797" rel="nofollow">Xiaomi Redmi Note 4 (mido)</a></li>
+<li><a href="https://forum.xda-developers.com/xiaomi-redmi-4x/development/spjuly-descendant-3-1-1-xiaomi-redmi-4x-t3948965" rel="nofollow">Xiaomi Redmi Note 4X (santoni)</a></li>
+<li><a href="https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/spjune-descendant-threedotzero-treble-t3939326" rel="nofollow">Asus ZenFone Max Pro M1 (x00t*)</a></li>
+<li><a href="https://forum.xda-developers.com/redmi-note-5-pro/development/spjune-descendant-threedotzero-t3939349" rel="nofollow">Xiaomi Redmi Note 5 Pro (whyred)</a></li>
+<li><a href="https://forum.xda-developers.com/redmi-note-5/development/spjune-descendant-threedotzero-t3939661" rel="nofollow">Xiaomi Redmi Note 5 (vince)</a></li>
+<li><a href="https://forum.xda-developers.com/mi-a1/development/spapril-descendant-xiaomi-mi-a1-t3917698" rel="nofollow">Xiaomi Mi A1 (tissot)</a></li>
+<li><a href="https://forum.xda-developers.com/redmi-note-7/development/rom-descendant-3-1-1-xiaomi-redmi-note-7-t3948048" rel="nofollow">Xiaomi Redmi Note 7 (lavender)</a></li>
+<li><a href="https://forum.xda-developers.com/mi-8-se/development/spjuly-descendant-3-1-1-xiaomi-mi-8-se-t3949339" rel="nofollow">Xiaomi Mi 8 SE (sirius)</a></li>
+<li><a href="https://forum.xda-developers.com/pixel-3a/development/rom-descendant-3-1-1-pixel-3a-t3948814" rel="nofollow">Google Pixel 3A (sargo)</a></li>
+</ul>
+
+<br>
+
+<p hidden>You can read 4.0.0. changelog <a href="https://descendant.me/blog/ThreeDotZero" target="_blank">here</a>.</p>
 
 ---
 
@@ -42,6 +58,22 @@ __GSI ARM A only__
              ">Older downloads</p>
    </summary>
 <hr>
+   
+### __Descendant 3.1.1.__
+
+__GSI ARM64 A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm64_aonly.zip)
+
+__GSI ARM64 AB__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm64_ab.zip)
+
+__GSI ARM A only__
+
+* [Download here](https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm_aonly.zip)   
+
+---      
    
 ### __Descendant ThreeDotZero__
 
