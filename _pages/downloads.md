@@ -10,25 +10,25 @@ navigation: true
 
 <hr>
 
-### __Descendant 4.0.0.__
+### __Descendant 4.0.1__
 
 <br>
 
 __GSI ARM64 A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm64_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/4.0.1/Descendant_4.0.1_arm64_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM64 AB__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm64_ab.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/4.0.1/Descendant_4.0.1_arm64_ab.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
 __GSI ARM A only__
 
-&emsp; <a href="https://github.com/Descendant/InOps/releases/download/3.1.1/Descendant_3.1.1_arm_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
+&emsp; <a href="https://github.com/Descendant/InOps/releases/download/4.0.1/Descendant_4.0.1_arm_aonly.zip" target="_blank"><img src="/assets/download.png" style="width: 22%"></a>
 
 <br>
 
