@@ -28,7 +28,7 @@ navigation: true
 
 <br>
 
-<center>For more screenshots, visit the screenshots <a href="https://photos.app.goo.gl/Jd4M6bKGDZWhLguP6" target="_blank">album</a>.</center>
+<center><p>For more screenshots, visit our screenshots <a href="https://photos.app.goo.gl/Jd4M6bKGDZWhLguP6" target="_blank">album</a>.</p></center>
 <hr>  
 
 
