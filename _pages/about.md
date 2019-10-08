@@ -9,11 +9,9 @@ navigation: true
 
 <hr>
 
-Descendant is an Android Custom ROM that aims to add useful tweaks over Google's Android AOSP 9.
+Descendant is a different take on Android that aims to add revolutionize Google's Android AOSP experience.
 
-Nothing fancy, straight AOSP plus some tweaks that per-my-idea should be shipped by default in any pure AOSP.
-
-Founded and leaded by {% include icon-github.html username="Dil3mm4" %}, Descendant it's an open-source project that (at the moment) targets Treble enabled devices.
+Founded in 2018, leaded by {% include icon-github.html username="Dil3mm4" %}, Descendant it's an open-source project that (at the moment) targets Treble enabled devices.
 
 I'm open to any contribution. 
 
