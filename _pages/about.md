@@ -9,7 +9,7 @@ navigation: true
 
 <hr>
 
-Descendant is a different take on Android that aims to add revolutionize Google's Android AOSP experience.
+Descendant is a different take on Android that aims to revolutionize Google's Android AOSP experience.
 
 Founded in 2018, leaded by {% include icon-github.html username="Dil3mm4" %}, Descendant it's an open-source project that (at the moment) targets Treble enabled devices.
 
